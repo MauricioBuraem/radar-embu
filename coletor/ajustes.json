@@ -1,0 +1,7 @@
+{
+  "_comentario": "Ajustes manuais aplicados ao gerar o site. 'nomes': id do vereador -> nome exibido (o nome da ficha continua sendo usado para casar autores e votos).",
+  "nomes": {
+    "87": "Vanessa da Saúde",
+    "89": "Gustavo do Rancho"
+  }
+}

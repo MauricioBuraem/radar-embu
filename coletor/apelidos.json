@@ -1,0 +1,14 @@
+{
+  "_comentario": "Nome como aparece no PDF de votação (sem acento, minúsculo) -> id do vereador no NoPaper. Confira 'nomes_nao_casados_pdf' e os vereadores 'sem_ficha' em dados/embu.json depois de cada coleta.",
+  "bulhoes": "97",
+  "gideon santos jr": "91",
+  "gustavo do rancho": "89",
+  "professora sandra manente": "85",
+  "vanessa da saude": "87",
+  "_nomes_civis": "Em fev/2025 o painel usava nome civil. Confirmados pelas ementas: Reginaldo Rocha Santana (Rochinha), José Ramalho da Silva (Zé do Piscinão), Edivaldo Floriano dos Santos Filho (Juneca). Inferidos (mesmo partido, só aparecem nas sessões de fev/2025, mesmo padrão dos confirmados): Sandra Dias do Nascimento, Vanessa Isabel Teodoro da Silva.",
+  "reginaldo rocha": "83",
+  "jose ramalho da silva": "86",
+  "edivaldo floriano dos santos filho": "84",
+  "sandra dias do nascimento": "85",
+  "vanessa isabel teodoro da silva": "87"
+}

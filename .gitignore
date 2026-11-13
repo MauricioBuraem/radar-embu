@@ -1,0 +1,5 @@
+.venv/
+.venv-fotos/
+__pycache__/
+dados/cache/
+.claude/
