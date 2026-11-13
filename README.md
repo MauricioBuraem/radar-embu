@@ -39,8 +39,21 @@ Os CSVs dos anos anteriores também ficam em cache; o ano corrente é sempre atu
   Confira o resultado em `dados/cache/prancha_fotos.jpg`.
 
 `site/` é 100% estático (index.html + app.js + dados.js) e pode ir para GitHub Pages,
-Netlify ou qualquer hospedagem. O workflow `.github/workflows/atualizar.yml` coleta toda
-madrugada, faz commit dos dados e publica no GitHub Pages.
+Netlify ou qualquer hospedagem.
+
+## Robô de atualização
+
+O NoPaper não aceita conexões dos servidores do GitHub (a conexão expira), então a coleta
+roda num computador no Brasil: `robo/atualizar.ps1` coleta, gera o site, faz commit e `git push`.
+O push dispara `.github/workflows/atualizar.yml`, que só publica `site/` no GitHub Pages.
+
+```powershell
+powershell -ExecutionPolicy Bypass -File robo\agendar.ps1   # agenda 04:17 e 14:17 no Agendador de Tarefas
+powershell -ExecutionPolicy Bypass -File robo\atualizar.ps1 # roda agora
+```
+
+Log em `dados/cache/robo.log`. O PC precisa estar ligado (se estiver desligado no horário,
+o robô roda quando ligar) e o `gh` logado (`gh auth login` + `gh auth setup-git`).
 
 ## De onde vem cada dado
 
