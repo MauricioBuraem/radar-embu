@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-16T14:18-03:00",
+ "gerado_em": "2026-11-18T10:32-03:00",
  "fonte": "https://nopapercloud.cmembu.sp.gov.br/spl/",
  "posse": "2025-01-01",
  "salario": {
@@ -9,15 +9,15 @@
  },
  "cadeiras": 21,
  "temas": {
-  "asf": 258,
-  "agu": 96,
-  "laz": 216,
+  "asf": 260,
+  "agu": 97,
+  "laz": 219,
   "lim": 51,
   "luz": 87,
   "seg": 38,
-  "sau": 185,
+  "sau": 187,
   "bus": 45,
-  "edu": 103,
+  "edu": 104,
   "tra": 69,
   "cal": 25
  },
@@ -38,16 +38,16 @@
    "chave": "abel arantes",
    "em_exercicio": true,
    "cat": {
-    "b": 126,
+    "b": 127,
     "h": 35,
     "o": 28,
     "c": 19,
     "l": 35
    },
-   "P": 64,
+   "P": 62,
    "F": 6,
-   "sessoes": 70,
-   "sim": 79,
+   "sessoes": 68,
+   "sim": 78,
    "nao": 11,
    "abst": 0,
    "outros_votos": {},
@@ -129,14 +129,14 @@
     "h": 11,
     "c": 21,
     "l": 36,
-    "o": 33
+    "o": 39
    },
-   "P": 63,
+   "P": 61,
    "F": 5,
-   "sessoes": 68,
-   "sim": 318,
-   "nao": 50,
-   "abst": 7,
+   "sessoes": 66,
+   "sim": 304,
+   "nao": 47,
+   "abst": 6,
    "outros_votos": {},
    "naos": [
     {
@@ -285,11 +285,6 @@
      "voto": "abstencao"
     },
     {
-     "data": "2025-08-27",
-     "titulo": "MOÇÃO DE REPÚDIO Nº. 64/2025 DE AUTORIA DO VEREADOR ABEL ARANTES REPÚDIO ÀS DECLARAÇÕES DO VEREADOR DAVISON SANTOS (PSDB) DA CÂMARA MUNICIPAL DE CARAPICUÍBA, PROFERIDAS NA 24ª SESSÃO ORDINÁRIA, CONCERNENTES AO EX-PREFEITO DE EMBU DAS ARTES, NEY SANTOS.",
-     "voto": "nao"
-    },
-    {
      "data": "2025-08-06",
      "titulo": "INDICAÇÕES Nº. 480, 481 E 482/2025 DE AUTORIA DO VEREADOR ROCHINHA Indicação Nº. 480/2025 de autoria do Vereador Reginaldo Rocha Santana – “Indica ao chefe do Poder Executivo Municipal que seja efetuado convênio entre prefeitura e governo do estado para implementação da via transversal ligando a Rodovia Raposo Tavares à BR-116 passando pelo Parque São Leonardo e Chácara Votorantim, ligando à Estra",
      "voto": "nao"
@@ -348,21 +343,6 @@
      "data": "2025-05-21",
      "titulo": "PROJETO DE LEI Nº. 55/2025 DE AUTORIA DO VEREADOR GILSON OLIVEIRA “Institui a SEMANA VIVA EMBU DAS ARTES no Calendário Oﬁcial de Eventos do Município de Embu das Artes.”",
      "voto": "abstencao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "REQUERIMENTO DE URGÊNCIA ESPECIAL AO PROJETO DE LEI N°. 56/2025",
-     "voto": "abstencao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3864/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3864, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 25/2025 que: “Dispõe sobre a proteção e bem-estar animal no Município de Embu das Artes e dá outras providências”",
-     "voto": "nao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3865/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3865, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 36/2025, que: “Dispõe sobre a denominação da Escola Municipal Professora Cleusa Oliveira Costa”",
-     "voto": "nao"
     },
     {
      "data": "2025-04-02",
@@ -442,7 +422,7 @@
    "chave": "alessandro santos",
    "em_exercicio": true,
    "cat": {
-    "b": 6,
+    "b": 15,
     "h": 2,
     "l": 2,
     "c": 3
@@ -478,24 +458,14 @@
     "c": 1,
     "l": 11
    },
-   "P": 45,
+   "P": 44,
    "F": 0,
-   "sessoes": 45,
-   "sim": 493,
-   "nao": 15,
+   "sessoes": 44,
+   "sim": 483,
+   "nao": 13,
    "abst": 1,
    "outros_votos": {},
    "naos": [
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3864/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3864, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 25/2025 que: “Dispõe sobre a proteção e bem-estar animal no Município de Embu das Artes e dá outras providências”",
-     "voto": "nao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3865/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3865, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 36/2025, que: “Dispõe sobre a denominação da Escola Municipal Professora Cleusa Oliveira Costa”",
-     "voto": "nao"
-    },
     {
      "data": "2025-04-07",
      "titulo": "ATA DA 09ª SESSÃO ORDINÁRIA - 02/04/2025",
@@ -589,10 +559,10 @@
     "l": 5,
     "o": 3
    },
-   "P": 51,
+   "P": 50,
    "F": 0,
-   "sessoes": 51,
-   "sim": 516,
+   "sessoes": 50,
+   "sim": 503,
    "nao": 22,
    "abst": 0,
    "outros_votos": {},
@@ -731,27 +701,17 @@
     "l": 22,
     "o": 5
    },
-   "P": 68,
+   "P": 67,
    "F": 1,
-   "sessoes": 69,
-   "sim": 603,
-   "nao": 15,
+   "sessoes": 68,
+   "sim": 592,
+   "nao": 13,
    "abst": 0,
    "outros_votos": {},
    "naos": [
     {
      "data": "2025-06-18",
      "titulo": "INDICAÇÕES Nº. 558, 563, 569, 570 E 571/2025 DE AUTORIA DO VEREADOR LÚCIO COSTA Indicação Nº. 558/2025 de autoria do Vereador Renato Lúcio da Costa Barboza – “INDICA que seja realizado estudo para a instalação de radar eletrônico de velocidade na Rua Guaiuba altura do número 50, no Bairro Jardim Vista Alegre”; Indicação Nº. 563/2025 de autoria do Vereador Renato Lúcio da Costa Barboza – “INDICA ao",
-     "voto": "nao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3864/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3864, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 25/2025 que: “Dispõe sobre a proteção e bem-estar animal no Município de Embu das Artes e dá outras providências”",
-     "voto": "nao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3865/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3865, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 36/2025, que: “Dispõe sobre a denominação da Escola Municipal Professora Cleusa Oliveira Costa”",
      "voto": "nao"
     },
     {
@@ -861,30 +821,20 @@
    "chave": "diego paixao",
    "em_exercicio": true,
    "cat": {
-    "b": 129,
+    "b": 130,
     "h": 10,
     "c": 20,
     "l": 30,
     "o": 23
    },
-   "P": 69,
+   "P": 67,
    "F": 0,
-   "sessoes": 69,
-   "sim": 774,
-   "nao": 14,
+   "sessoes": 67,
+   "sim": 748,
+   "nao": 12,
    "abst": 0,
    "outros_votos": {},
    "naos": [
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3864/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3864, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 25/2025 que: “Dispõe sobre a proteção e bem-estar animal no Município de Embu das Artes e dá outras providências”",
-     "voto": "nao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3865/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3865, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 36/2025, que: “Dispõe sobre a denominação da Escola Municipal Professora Cleusa Oliveira Costa”",
-     "voto": "nao"
-    },
     {
      "data": "2025-04-02",
      "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3858/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao autógrafo nº3858 referente ao Projeto de Lei 22/2025 que teria como matéria \"Autoriza a criação da escola de formação de Educadores da Rede de ensino Municipal de Embu das Artes e dá outras providências\", de autoria do eminente Vereador Abidan Henrique da Silva.",
@@ -969,27 +919,17 @@
     "l": 32,
     "o": 22
    },
-   "P": 58,
+   "P": 56,
    "F": 1,
-   "sessoes": 59,
-   "sim": 642,
-   "nao": 15,
+   "sessoes": 57,
+   "sim": 622,
+   "nao": 13,
    "abst": 0,
    "outros_votos": {},
    "naos": [
     {
      "data": "2026-09-23",
      "titulo": "INDICAÇÃO Nº. 518/2026 DE AUTORIA DO VEREADOR ÍNDIO SILVA Indicação Nº. 518/2026 de autoria do Senhor Vereador Gilberto Oliveira da Silva: “Indica ao Chefe do Poder Executivo Municipal, estudos para a implementação de um campo de futebol denominado “Arena Guerra”, na Praça Maria Luiza, conhecida como Bosque do Batista”;",
-     "voto": "nao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3864/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3864, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 25/2025 que: “Dispõe sobre a proteção e bem-estar animal no Município de Embu das Artes e dá outras providências”",
-     "voto": "nao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3865/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3865, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 36/2025, que: “Dispõe sobre a denominação da Escola Municipal Professora Cleusa Oliveira Costa”",
      "voto": "nao"
     },
     {
@@ -1071,23 +1011,18 @@
    "em_exercicio": true,
    "cat": {
     "b": 2,
-    "h": 13,
+    "h": 14,
     "l": 3,
     "o": 2
    },
-   "P": 63,
+   "P": 61,
    "F": 0,
-   "sessoes": 63,
-   "sim": 732,
-   "nao": 19,
+   "sessoes": 61,
+   "sim": 706,
+   "nao": 18,
    "abst": 0,
    "outros_votos": {},
    "naos": [
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3865/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3865, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 36/2025, que: “Dispõe sobre a denominação da Escola Municipal Professora Cleusa Oliveira Costa”",
-     "voto": "nao"
-    },
     {
      "data": "2025-04-07",
      "titulo": "ATA DA 09ª SESSÃO ORDINÁRIA - 02/04/2025",
@@ -1202,24 +1137,14 @@
     "c": 20,
     "l": 32
    },
-   "P": 70,
+   "P": 68,
    "F": 0,
-   "sessoes": 70,
-   "sim": 759,
-   "nao": 13,
+   "sessoes": 68,
+   "sim": 733,
+   "nao": 11,
    "abst": 0,
    "outros_votos": {},
    "naos": [
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3864/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3864, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 25/2025 que: “Dispõe sobre a proteção e bem-estar animal no Município de Embu das Artes e dá outras providências”",
-     "voto": "nao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3865/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3865, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 36/2025, que: “Dispõe sobre a denominação da Escola Municipal Professora Cleusa Oliveira Costa”",
-     "voto": "nao"
-    },
     {
      "data": "2025-04-02",
      "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3860/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo nº 3860 referente ao Projeto de Lei 28/2025 que teria como matéria \"Autoriza o Poder Executivo Municipal a celebrar convênios com Empresas e Organizações da Sociedade Civil para viabilizar a instalação de pontos de apoio para motoboys\"",
@@ -1298,24 +1223,14 @@
     "l": 13,
     "o": 2
    },
-   "P": 53,
+   "P": 52,
    "F": 2,
-   "sessoes": 55,
-   "sim": 540,
-   "nao": 22,
+   "sessoes": 54,
+   "sim": 530,
+   "nao": 20,
    "abst": 0,
    "outros_votos": {},
    "naos": [
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3864/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3864, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 25/2025 que: “Dispõe sobre a proteção e bem-estar animal no Município de Embu das Artes e dá outras providências”",
-     "voto": "nao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3865/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3865, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 36/2025, que: “Dispõe sobre a denominação da Escola Municipal Professora Cleusa Oliveira Costa”",
-     "voto": "nao"
-    },
     {
      "data": "2025-04-07",
      "titulo": "ATA DA 09ª SESSÃO ORDINÁRIA - 02/04/2025",
@@ -1440,27 +1355,17 @@
     "l": 25,
     "o": 3
    },
-   "P": 66,
+   "P": 64,
    "F": 0,
-   "sessoes": 66,
-   "sim": 699,
-   "nao": 14,
+   "sessoes": 64,
+   "sim": 680,
+   "nao": 12,
    "abst": 0,
    "outros_votos": {},
    "naos": [
     {
      "data": "2026-09-23",
      "titulo": "INDICAÇÃO Nº. 521/2026 DE AUTORIA DO VEREADOR LEO NOVAIS Indicação Nº. 521/2026 de autoria do Senhor Vereador Leo Novais: “Indica ao Chefe do Poder Executivo Municipal a realização de estudos e ampliação do horário de atendimento em período integral da Escola Municipal Jeanete Beauchamp, localizada na Rua Oliveira, nº 371, bairro Santo Eduardo, estendendo o horário de encerramento do expediente da",
-     "voto": "nao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3864/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3864, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 25/2025 que: “Dispõe sobre a proteção e bem-estar animal no Município de Embu das Artes e dá outras providências”",
-     "voto": "nao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3865/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3865, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 36/2025, que: “Dispõe sobre a denominação da Escola Municipal Professora Cleusa Oliveira Costa”",
      "voto": "nao"
     },
     {
@@ -1536,30 +1441,20 @@
    "chave": "leo novais",
    "em_exercicio": true,
    "cat": {
-    "b": 107,
+    "b": 108,
     "o": 5,
     "h": 10,
     "c": 19,
     "l": 47
    },
-   "P": 65,
+   "P": 63,
    "F": 0,
-   "sessoes": 65,
-   "sim": 725,
-   "nao": 14,
+   "sessoes": 63,
+   "sim": 704,
+   "nao": 12,
    "abst": 0,
    "outros_votos": {},
    "naos": [
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3864/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3864, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 25/2025 que: “Dispõe sobre a proteção e bem-estar animal no Município de Embu das Artes e dá outras providências”",
-     "voto": "nao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3865/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3865, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 36/2025, que: “Dispõe sobre a denominação da Escola Municipal Professora Cleusa Oliveira Costa”",
-     "voto": "nao"
-    },
     {
      "data": "2025-04-02",
      "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3858/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao autógrafo nº3858 referente ao Projeto de Lei 22/2025 que teria como matéria \"Autoriza a criação da escola de formação de Educadores da Rede de ensino Municipal de Embu das Artes e dá outras providências\", de autoria do eminente Vereador Abidan Henrique da Silva.",
@@ -1643,10 +1538,10 @@
     "h": 4,
     "o": 2
    },
-   "P": 57,
+   "P": 56,
    "F": 0,
-   "sessoes": 57,
-   "sim": 675,
+   "sessoes": 56,
+   "sim": 661,
    "nao": 0,
    "abst": 1,
    "outros_votos": {},
@@ -1709,27 +1604,17 @@
     "l": 27,
     "o": 1
    },
-   "P": 35,
+   "P": 34,
    "F": 0,
-   "sessoes": 35,
-   "sim": 297,
-   "nao": 14,
+   "sessoes": 34,
+   "sim": 287,
+   "nao": 12,
    "abst": 0,
    "outros_votos": {},
    "naos": [
     {
      "data": "2026-09-02",
      "titulo": "INDICAÇÕES Nº. 415, 416, 420 E 462/2026 DE AUTORIA DO VEREADOR JUNECA Indicação Nº. 415/2026 de autoria do Senhor Vereador Edivaldo Floriano dos Santos Filho: “Indica ao Chefe do Poder Executivo Municipal o recapeamento de toda a extensão da Estrada Jerusalém, no bairro Chácaras Caxingui, em Embu das Artes, estado de São Paulo”; Indicação Nº. 416/2026 de autoria do Senhor Vereador Edivaldo Florian",
-     "voto": "nao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3864/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3864, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 25/2025 que: “Dispõe sobre a proteção e bem-estar animal no Município de Embu das Artes e dá outras providências”",
-     "voto": "nao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3865/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3865, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 36/2025, que: “Dispõe sobre a denominação da Escola Municipal Professora Cleusa Oliveira Costa”",
      "voto": "nao"
     },
     {
@@ -1805,25 +1690,20 @@
    "chave": "rochinha",
    "em_exercicio": true,
    "cat": {
-    "b": 325,
-    "h": 41,
+    "b": 330,
+    "h": 43,
     "o": 8,
     "c": 1,
     "l": 19
    },
-   "P": 64,
+   "P": 62,
    "F": 2,
-   "sessoes": 66,
-   "sim": 720,
-   "nao": 24,
+   "sessoes": 64,
+   "sim": 694,
+   "nao": 23,
    "abst": 3,
    "outros_votos": {},
    "naos": [
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3865/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3865, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 36/2025, que: “Dispõe sobre a denominação da Escola Municipal Professora Cleusa Oliveira Costa”",
-     "voto": "nao"
-    },
     {
      "data": "2025-04-07",
      "titulo": "ATA DA 09ª SESSÃO ORDINÁRIA - 02/04/2025",
@@ -1978,24 +1858,14 @@
     "c": 1,
     "l": 31
    },
-   "P": 64,
+   "P": 63,
    "F": 0,
-   "sessoes": 64,
-   "sim": 726,
-   "nao": 31,
+   "sessoes": 63,
+   "sim": 715,
+   "nao": 29,
    "abst": 2,
    "outros_votos": {},
    "naos": [
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3864/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3864, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 25/2025 que: “Dispõe sobre a proteção e bem-estar animal no Município de Embu das Artes e dá outras providências”",
-     "voto": "nao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3865/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3865, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 36/2025, que: “Dispõe sobre a denominação da Escola Municipal Professora Cleusa Oliveira Costa”",
-     "voto": "nao"
-    },
     {
      "data": "2025-04-07",
      "titulo": "ATA DA 09ª SESSÃO ORDINÁRIA - 02/04/2025",
@@ -2169,30 +2039,20 @@
    "chave": "vanessa silva",
    "em_exercicio": true,
    "cat": {
-    "b": 78,
-    "h": 36,
+    "b": 79,
+    "h": 37,
     "o": 9,
     "c": 2,
     "l": 40
    },
-   "P": 60,
+   "P": 58,
    "F": 0,
-   "sessoes": 60,
-   "sim": 701,
-   "nao": 32,
+   "sessoes": 58,
+   "sim": 675,
+   "nao": 30,
    "abst": 4,
    "outros_votos": {},
    "naos": [
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3864/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3864, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 25/2025 que: “Dispõe sobre a proteção e bem-estar animal no Município de Embu das Artes e dá outras providências”",
-     "voto": "nao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3865/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3865, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 36/2025, que: “Dispõe sobre a denominação da Escola Municipal Professora Cleusa Oliveira Costa”",
-     "voto": "nao"
-    },
     {
      "data": "2025-04-07",
      "titulo": "ATA DA 09ª SESSÃO ORDINÁRIA - 02/04/2025",
@@ -2387,24 +2247,14 @@
     "c": 19,
     "l": 23
    },
-   "P": 68,
+   "P": 66,
    "F": 1,
-   "sessoes": 69,
-   "sim": 813,
-   "nao": 14,
+   "sessoes": 67,
+   "sim": 789,
+   "nao": 12,
    "abst": 0,
    "outros_votos": {},
    "naos": [
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3864/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3864, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 25/2025 que: “Dispõe sobre a proteção e bem-estar animal no Município de Embu das Artes e dá outras providências”",
-     "voto": "nao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3865/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3865, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 36/2025, que: “Dispõe sobre a denominação da Escola Municipal Professora Cleusa Oliveira Costa”",
-     "voto": "nao"
-    },
     {
      "data": "2025-04-02",
      "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3858/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao autógrafo nº3858 referente ao Projeto de Lei 22/2025 que teria como matéria \"Autoriza a criação da escola de formação de Educadores da Rede de ensino Municipal de Embu das Artes e dá outras providências\", de autoria do eminente Vereador Abidan Henrique da Silva.",
@@ -2487,24 +2337,14 @@
     "l": 2,
     "h": 1
    },
-   "P": 11,
+   "P": 10,
    "F": 0,
-   "sessoes": 11,
-   "sim": 85,
-   "nao": 20,
+   "sessoes": 10,
+   "sim": 73,
+   "nao": 18,
    "abst": 0,
    "outros_votos": {},
    "naos": [
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3864/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3864, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 25/2025 que: “Dispõe sobre a proteção e bem-estar animal no Município de Embu das Artes e dá outras providências”",
-     "voto": "nao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3865/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3865, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 36/2025, que: “Dispõe sobre a denominação da Escola Municipal Professora Cleusa Oliveira Costa”",
-     "voto": "nao"
-    },
     {
      "data": "2025-04-07",
      "titulo": "ATA DA 09ª SESSÃO ORDINÁRIA - 02/04/2025",
@@ -2617,24 +2457,14 @@
     "h": 2,
     "l": 2
    },
-   "P": 10,
+   "P": 9,
    "F": 0,
-   "sessoes": 10,
-   "sim": 87,
-   "nao": 27,
+   "sessoes": 9,
+   "sim": 76,
+   "nao": 25,
    "abst": 1,
    "outros_votos": {},
    "naos": [
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3864/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3864, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 25/2025 que: “Dispõe sobre a proteção e bem-estar animal no Município de Embu das Artes e dá outras providências”",
-     "voto": "nao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3865/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3865, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 36/2025, que: “Dispõe sobre a denominação da Escola Municipal Professora Cleusa Oliveira Costa”",
-     "voto": "nao"
-    },
     {
      "data": "2025-04-07",
      "titulo": "ATA DA 09ª SESSÃO ORDINÁRIA - 02/04/2025",
@@ -2788,24 +2618,14 @@
     "o": 3,
     "l": 3
    },
-   "P": 49,
+   "P": 47,
    "F": 0,
-   "sessoes": 49,
-   "sim": 538,
-   "nao": 35,
+   "sessoes": 47,
+   "sim": 517,
+   "nao": 33,
    "abst": 0,
    "outros_votos": {},
    "naos": [
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3864/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3864, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 25/2025 que: “Dispõe sobre a proteção e bem-estar animal no Município de Embu das Artes e dá outras providências”",
-     "voto": "nao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3865/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3865, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 36/2025, que: “Dispõe sobre a denominação da Escola Municipal Professora Cleusa Oliveira Costa”",
-     "voto": "nao"
-    },
     {
      "data": "2025-04-07",
      "titulo": "ATA DA 09ª SESSÃO ORDINÁRIA - 02/04/2025",
@@ -2994,10 +2814,10 @@
     "o": 3,
     "l": 12
    },
-   "P": 43,
+   "P": 42,
    "F": 0,
-   "sessoes": 43,
-   "sim": 476,
+   "sessoes": 42,
+   "sim": 460,
    "nao": 0,
    "abst": 0,
    "outros_votos": {},
@@ -3024,10 +2844,10 @@
     "l": 5,
     "o": 2
    },
-   "P": 35,
+   "P": 34,
    "F": 0,
-   "sessoes": 35,
-   "sim": 385,
+   "sessoes": 34,
+   "sim": 377,
    "nao": 0,
    "abst": 0,
    "outros_votos": {},
@@ -3083,11 +2903,11 @@
     "c": 22,
     "l": 30
    },
-   "P": 64,
+   "P": 62,
    "F": 0,
-   "sessoes": 64,
-   "sim": 685,
-   "nao": 52,
+   "sessoes": 62,
+   "sim": 659,
+   "nao": 49,
    "abst": 16,
    "outros_votos": {},
    "naos": [
@@ -3272,11 +3092,6 @@
      "voto": "nao"
     },
     {
-     "data": "2025-08-27",
-     "titulo": "MOÇÃO DE REPÚDIO Nº. 64/2025 DE AUTORIA DO VEREADOR ABEL ARANTES REPÚDIO ÀS DECLARAÇÕES DO VEREADOR DAVISON SANTOS (PSDB) DA CÂMARA MUNICIPAL DE CARAPICUÍBA, PROFERIDAS NA 24ª SESSÃO ORDINÁRIA, CONCERNENTES AO EX-PREFEITO DE EMBU DAS ARTES, NEY SANTOS.",
-     "voto": "nao"
-    },
-    {
      "data": "2025-08-13",
      "titulo": "REQUERIMENTO DE URGÊNCIA ESPECIAL AO PROJETO DE RESOLUÇÃO Nº. 10/2025",
      "voto": "abstencao"
@@ -3360,16 +3175,6 @@
      "data": "2025-05-07",
      "titulo": "INDICAÇÕES Nº. 426 A 429/2025 E 431, 434, 436, 437 E 438/2025 DE AUTORIA DO VEREADOR DEDÉ Indicação Nº. 426/2025 de autoria dos Vereadores José de Sousa Santos e Ricardo Almeida dos Santos – “Indicam ao Chefe do Poder Executivo Municipal que seja realizado estudos para a implantação de ponto de ônibus (ponto de ônibus com cobertura) no conjunto habitacional FAMA, R. José Salgueiro - Jardim São Lui",
      "voto": "abstencao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3864/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3864, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 25/2025 que: “Dispõe sobre a proteção e bem-estar animal no Município de Embu das Artes e dá outras providências”",
-     "voto": "nao"
-    },
-    {
-     "data": "2025-04-30",
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3865/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3865, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 36/2025, que: “Dispõe sobre a denominação da Escola Municipal Professora Cleusa Oliveira Costa”",
-     "voto": "nao"
     },
     {
      "data": "2025-04-02",
@@ -39220,6 +39025,156 @@
    ]
   },
   {
+   "id": "34353",
+   "processo": "2018",
+   "tipo": "Emenda",
+   "numero": "8",
+   "ano": "2026",
+   "ementa": "Altera o Projeto de Lei Orçamentária Anual de 2027 para acrescer R$ 1.000.000,00 ao Fundo de Cultura, mediante anulação de igual valor na ação de manutenção das atividades de tecnologia e comunicação.",
+   "protocolo": "2639",
+   "autores": [
+    "Abidan Henrique da Silva"
+   ],
+   "data": "2026-11-16",
+   "fase": "Emissão de Manifestação",
+   "setor": "Procuradoria Legislativa",
+   "situacao": "Tramitando",
+   "codigo": "Emenda 8/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34353",
+   "grupo": "o",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "63"
+   ]
+  },
+  {
+   "id": "34354",
+   "processo": "2018",
+   "tipo": "Emenda",
+   "numero": "7",
+   "ano": "2026",
+   "ementa": "Altera o Projeto de Lei Orçamentária Anual de 2027 para acrescer R$ 2.000.000,00 à ação de recapeamento de vias, mediante anulação de igual valor na ação de manutenção das atividades de tecnologia e comunicação.",
+   "protocolo": "2638",
+   "autores": [
+    "Abidan Henrique da Silva"
+   ],
+   "data": "2026-11-16",
+   "fase": "Emissão de Manifestação",
+   "setor": "Procuradoria Legislativa",
+   "situacao": "Tramitando",
+   "codigo": "Emenda 7/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34354",
+   "grupo": "o",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "63"
+   ]
+  },
+  {
+   "id": "34355",
+   "processo": "2018",
+   "tipo": "Emenda",
+   "numero": "6",
+   "ano": "2026",
+   "ementa": "Altera o Projeto de Lei Orçamentária Anual de 2027 para remanejar R$ 4.000.000,00 da ação de manutenção das atividades de tecnologia e comunicação para a ação de fortalecimento da atenção de urgência e emergência na rede municipal de saúde, conforme dotação a ser indicada.",
+   "protocolo": "2637",
+   "autores": [
+    "Abidan Henrique da Silva"
+   ],
+   "data": "2026-11-16",
+   "fase": "Emissão de Manifestação",
+   "setor": "Procuradoria Legislativa",
+   "situacao": "Tramitando",
+   "codigo": "Emenda 6/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34355",
+   "grupo": "o",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "63"
+   ]
+  },
+  {
+   "id": "34351",
+   "processo": "2018",
+   "tipo": "Emenda",
+   "numero": "5",
+   "ano": "2026",
+   "ementa": "Altera o Projeto de Lei Orçamentária Anual de 2027 para acrescer R$ 1.000.000,00 à ação de manutenção e conservação de unidades de segurança pública, mediante anulação de igual valor na ação de manutenção das atividades de tecnologia e comunicação.",
+   "protocolo": "2636",
+   "autores": [
+    "Abidan Henrique da Silva"
+   ],
+   "data": "2026-11-16",
+   "fase": "Emissão de Manifestação",
+   "setor": "Procuradoria Legislativa",
+   "situacao": "Tramitando",
+   "codigo": "Emenda 5/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34351",
+   "grupo": "o",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "63"
+   ]
+  },
+  {
+   "id": "34352",
+   "processo": "2018",
+   "tipo": "Emenda",
+   "numero": "4",
+   "ano": "2026",
+   "ementa": "Altera o Projeto de Lei Orçamentária Anual de 2027 para acrescer R$ 1.000.000,00 ao Fundo Municipal de Turismo — FUMTUR, mediante anulação de igual valor na ação de manutenção das atividades de tecnologia e comunicação.",
+   "protocolo": "2635",
+   "autores": [
+    "Abidan Henrique da Silva"
+   ],
+   "data": "2026-11-16",
+   "fase": "Emissão de Manifestação",
+   "setor": "Procuradoria Legislativa",
+   "situacao": "Tramitando",
+   "codigo": "Emenda 4/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34352",
+   "grupo": "o",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "63"
+   ]
+  },
+  {
+   "id": "34343",
+   "processo": "2018",
+   "tipo": "Emenda",
+   "numero": "3",
+   "ano": "2026",
+   "ementa": "Altera o Projeto de Lei Orçamentária Anual de 2027 para acrescer R$ 1.000.000,00 à ação de manutenção e conservação de unidades de segurança pública, mediante anulação de igual valor na ação de manutenção das atividades de tecnologia e comunicação.",
+   "protocolo": "2632",
+   "autores": [
+    "Abidan Henrique da Silva"
+   ],
+   "data": "2026-11-16",
+   "fase": "Emissão de Manifestação",
+   "setor": "Procuradoria Legislativa",
+   "situacao": "Tramitando",
+   "codigo": "Emenda 3/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34343",
+   "grupo": "o",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "63"
+   ]
+  },
+  {
    "id": "33666",
    "processo": "1836",
    "tipo": "Emenda",
@@ -39275,6 +39230,485 @@
     "88",
     "91",
     "71"
+   ]
+  },
+  {
+   "id": "34356",
+   "processo": "2518",
+   "tipo": "Indicação",
+   "numero": "681",
+   "ano": "2026",
+   "ementa": "“O Vereador Reginaldo Rocha Santana (Rochinha), no uso de suas atribuições previstas no artigo 133 do Regimento Interno desta Casa Legislativa, INDICA ao Excelentíssimo Senhor Prefeito de Embu das Artes que solicite aos setores competentes a realização de estudos visando à instituição do Programa Municipal de Formação e Contratação de Cuidadores Domiciliares no Município de Embu das Artes, com o objetivo de capacitar profissionais e viabilizar a prestação de cuidados domiciliares a idosos, crianças, pessoas com deficiência, pessoas com incapacidades permanentes ou temporárias, pessoas em sofrimento mental e pacientes crônicos.”",
+   "protocolo": "2682",
+   "autores": [
+    "Rochinha"
+   ],
+   "data": "2026-11-18",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 681/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34356",
+   "grupo": "b",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "83"
+   ]
+  },
+  {
+   "id": "34357",
+   "processo": "2517",
+   "tipo": "Indicação",
+   "numero": "680",
+   "ano": "2026",
+   "ementa": "“O Vereador Reginaldo Rocha Santana (Rochinha), no uso de suas atribuições previstas no artigo 133 do Regimento Interno desta Casa Legislativa, INDICA ao Excelentíssimo Senhor Prefeito de Embu das Artes que solicite aos setores competentes a realização de estudos visando à instituição de diretrizes municipais de acessibilidade denominadas \"Rota Segura de Mobilidade Reduzida\", destinadas a promover percursos contínuos e seguros para pessoas com mobilidade reduzida, permanente ou temporária, especialmente aquelas que utilizem muletas, bengalas, andadores ou outros dispositivos auxiliares de marcha.”",
+   "protocolo": "2681",
+   "autores": [
+    "Rochinha"
+   ],
+   "data": "2026-11-18",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 680/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34357",
+   "grupo": "b",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "83"
+   ]
+  },
+  {
+   "id": "34358",
+   "processo": "2516",
+   "tipo": "Indicação",
+   "numero": "679",
+   "ano": "2026",
+   "ementa": "“O Vereador Reginaldo Rocha Santana (Rochinha), no uso de suas atribuições previstas no artigo 133 do Regimento Interno desta Casa Legislativa, INDICA ao Excelentíssimo Senhor Prefeito de Embu das Artes que solicite aos setores competentes a realização de estudos visando à implantação, no âmbito do Município de Embu das Artes, do Programa Pequenos Embuenses, cuja finalidade é promover o desenvolvimento integral e a proteção das crianças, desde a gestação até os 6 (seis) anos de idade, por meio da coordenação intersetorial integrada das ações voltadas à primeira infância, notadamente nas áreas de saúde, educação e assistência social.”",
+   "protocolo": "2680",
+   "autores": [
+    "Rochinha"
+   ],
+   "data": "2026-11-18",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 679/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34358",
+   "grupo": "b",
+   "tema": "sau",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "83"
+   ]
+  },
+  {
+   "id": "34398",
+   "processo": "2515",
+   "tipo": "Indicação",
+   "numero": "678",
+   "ano": "2026",
+   "ementa": "“O Vereador Reginaldo Rocha Santana (Rochinha), no uso de suas atribuições previstas no artigo 133 do Regimento Interno desta Casa Legislativa, INDICA ao Excelentíssimo Senhor Prefeito de Embu das Artes que solicite aos setores competentes a realização de estudos visando à instituição da Campanha Municipal Permanente de Incentivo à Realização do Teste da Mãezinha durante o acompanhamento pré-natal no âmbito do Município de Embu das Artes.”",
+   "protocolo": "2679",
+   "autores": [
+    "Rochinha"
+   ],
+   "data": "2026-11-18",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 678/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34398",
+   "grupo": "b",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "83"
+   ]
+  },
+  {
+   "id": "34387",
+   "processo": "2509",
+   "tipo": "Indicação",
+   "numero": "677",
+   "ano": "2026",
+   "ementa": "O Vereador Léo Novais, no uso das atribuições que lhe confere o Artigo 133 do Regimento Interno desta Casa Legislativa, Indica ao Poder Executivo a Criação do Prêmio Municipal de Inovação no Serviço Público, destinado ao reconhecimento e à valorização dos servidores municipais de Embu das artes que desenvolverem soluções inovadoras para a melhoria dos serviços públicos.",
+   "protocolo": "2673",
+   "autores": [
+    "Leo Novais"
+   ],
+   "data": "2026-11-17",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 677/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34387",
+   "grupo": "b",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "90"
+   ]
+  },
+  {
+   "id": "34390",
+   "processo": "2507",
+   "tipo": "Indicação",
+   "numero": "676",
+   "ano": "2026",
+   "ementa": "Indica ao Chefe do Poder Executivo Municipal a realização de estudos visando ao desenvolvimento e à implantação do Protocolo Municipal de Identificação, Prevenção Sanitária e Atendimento Emergencial para crianças com alergias alimentares graves, intolerâncias graves e condições crônicas de saúde nas creches e da rede municipal de ensino.",
+   "protocolo": "2671",
+   "autores": [
+    "Vanessa Silva"
+   ],
+   "data": "2026-11-17",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 676/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34390",
+   "grupo": "b",
+   "tema": "sau",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "87"
+   ]
+  },
+  {
+   "id": "34384",
+   "processo": "2501",
+   "tipo": "Indicação",
+   "numero": "675",
+   "ano": "2026",
+   "ementa": "“O Vereador Reginaldo Rocha Santana (Rochinha), no uso de suas atribuições previstas no artigo 133 do Regimento Interno desta Casa Legislativa, INDICA ao Excelentíssimo Senhor Prefeito de Embu das Artes que solicite aos setores competentes a realização de estudos visando à substituição do gramado sintético e das grades da Quadra Society Jardim Tomé.”",
+   "protocolo": "2665",
+   "autores": [
+    "Rochinha"
+   ],
+   "data": "2026-11-17",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 675/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34384",
+   "grupo": "b",
+   "tema": "laz",
+   "ruas": [],
+   "bairros": [
+    "Jardim Tomé"
+   ],
+   "vereadores": [
+    "83"
+   ]
+  },
+  {
+   "id": "34383",
+   "processo": "2500",
+   "tipo": "Indicação",
+   "numero": "674",
+   "ano": "2026",
+   "ementa": "O Vereador Abel Rodrigues Arantes, no uso da atribuição que lhe confere o artigo 133 do Regimento Interno, INDICA a construção de um muro de contenção na E. M. Jequitibá, localizada na Rua Cajueiros, 44 – Jardim Pinheirinho.",
+   "protocolo": "2664",
+   "autores": [
+    "Abel Arantes"
+   ],
+   "data": "2026-11-17",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 674/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34383",
+   "grupo": "b",
+   "tema": "",
+   "ruas": [
+    "Rua Cajueiros"
+   ],
+   "bairros": [
+    "Jardim Pinheirinho"
+   ],
+   "vereadores": [
+    "62"
+   ]
+  },
+  {
+   "id": "34369",
+   "processo": "2492",
+   "tipo": "Indicação",
+   "numero": "673",
+   "ano": "2026",
+   "ementa": "O vereador Alessandro Santos, no uso de suas atribuições que lhe confere o artigo 132 do Regimento Interno, INDICA ao Chefe do Poder Executivo Municipal a realização de estudos visando à criação do Programa “Escola do Futuro 2.0 – Inovação e Oportunidades”, destinado à ampliação das oportunidades educacionais, tecnológicas, culturais e esportivas dos estudantes da rede municipal de ensino, por meio de laboratórios de tecnologia, cursos de capacitação, reforço escolar e abertura das escolas aos fins de semana.",
+   "protocolo": "2656",
+   "autores": [
+    "Alessandro Santos"
+   ],
+   "data": "2026-11-17",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 673/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34369",
+   "grupo": "b",
+   "tema": "edu",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "99"
+   ]
+  },
+  {
+   "id": "34368",
+   "processo": "2491",
+   "tipo": "Indicação",
+   "numero": "672",
+   "ano": "2026",
+   "ementa": "O vereador Alessandro Santos, no uso de suas atribuições que lhe confere o artigo 132 do Regimento Interno, INDICA ao Chefe do Poder Executivo Municipal a realização de estudos visando à criação do Programa Municipal “Jovem Empreendedor”, destinado à capacitação, orientação e incentivo ao empreendedorismo entre os jovens do município, por meio de cursos gratuitos, oficinas e realização de feira municipal de jovens empreendedores.",
+   "protocolo": "2655",
+   "autores": [
+    "Alessandro Santos"
+   ],
+   "data": "2026-11-17",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 672/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34368",
+   "grupo": "b",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "99"
+   ]
+  },
+  {
+   "id": "34367",
+   "processo": "2490",
+   "tipo": "Indicação",
+   "numero": "671",
+   "ano": "2026",
+   "ementa": "O vereador Alessandro Santos, no uso de suas atribuições que lhe confere o artigo 132 do Regimento Interno, INDICA ao Chefe do Poder Executivo Municipal a realização de estudos visando à implantação de área exclusiva para parada e embarque e desembarque de passageiros de veículos de transporte por aplicativo na Rua Andrônico dos Prazeres Gonçalves, em frente ao n.º 16.",
+   "protocolo": "2654",
+   "autores": [
+    "Alessandro Santos"
+   ],
+   "data": "2026-11-17",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 671/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34367",
+   "grupo": "b",
+   "tema": "",
+   "ruas": [
+    "Rua Andrônico dos Prazeres Gonçalves"
+   ],
+   "bairros": [],
+   "vereadores": [
+    "99"
+   ]
+  },
+  {
+   "id": "34366",
+   "processo": "2489",
+   "tipo": "Indicação",
+   "numero": "670",
+   "ano": "2026",
+   "ementa": "O vereador Alessandro Santos, no uso de suas atribuições que lhe confere o artigo 132 do Regimento Interno, INDICA ao Chefe do Poder Executivo Municipal a realização de serviços de pavimentação asfáltica em toda a extensão da Rua Violeta, no bairro Jardim Batista.",
+   "protocolo": "2653",
+   "autores": [
+    "Alessandro Santos"
+   ],
+   "data": "2026-11-17",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 670/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34366",
+   "grupo": "b",
+   "tema": "asf",
+   "ruas": [
+    "Rua Violeta"
+   ],
+   "bairros": [
+    "Jardim Batista"
+   ],
+   "vereadores": [
+    "99"
+   ]
+  },
+  {
+   "id": "34365",
+   "processo": "2488",
+   "tipo": "Indicação",
+   "numero": "669",
+   "ano": "2026",
+   "ementa": "O vereador Alessandro Santos, no uso de suas atribuições que lhe confere o artigo 132 do Regimento Interno, INDICA ao Chefe do Poder Executivo Municipal que adote providências junto à Empresa Metropolitana de Transportes Urbanos (EMTU) visando à reforma e revitalização do Terminal Urbano do Jardim Casa Branca.",
+   "protocolo": "2652",
+   "autores": [
+    "Alessandro Santos"
+   ],
+   "data": "2026-11-17",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 669/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34365",
+   "grupo": "b",
+   "tema": "",
+   "ruas": [],
+   "bairros": [
+    "Jardim Casa Branca"
+   ],
+   "vereadores": [
+    "99"
+   ]
+  },
+  {
+   "id": "34364",
+   "processo": "2487",
+   "tipo": "Indicação",
+   "numero": "668",
+   "ano": "2026",
+   "ementa": "O vereador Alessandro Santos, no uso de suas atribuições que lhe confere o artigo 132 do Regimento Interno, INDICA ao Chefe do Poder Executivo Municipal a realização de estudos visando à reforma e revitalização da praça localizada em frente ao Ginásio Poliesportivo do Jardim Casa Branca, com implantação de playground, pista de caminhada, academia ao ar livre e espaços destinados a feiras e eventos culturais.",
+   "protocolo": "2651",
+   "autores": [
+    "Alessandro Santos"
+   ],
+   "data": "2026-11-17",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 668/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34364",
+   "grupo": "b",
+   "tema": "laz",
+   "ruas": [],
+   "bairros": [
+    "Jardim Casa Branca"
+   ],
+   "vereadores": [
+    "99"
+   ]
+  },
+  {
+   "id": "34363",
+   "processo": "2486",
+   "tipo": "Indicação",
+   "numero": "667",
+   "ano": "2026",
+   "ementa": "O vereador Alessandro Santos, no uso de suas atribuições que lhe confere o artigo 132 do Regimento Interno, INDICA ao Chefe do Poder Executivo Municipal a elaboração de um plano de prevenção e combate às enchentes no bairro Jardim Novo Campo Limpo, com estudos para construção de piscinões, reservatórios de contenção e execução de obras de drenagem nos pontos mais críticos.",
+   "protocolo": "2650",
+   "autores": [
+    "Alessandro Santos"
+   ],
+   "data": "2026-11-17",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 667/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34363",
+   "grupo": "b",
+   "tema": "agu",
+   "ruas": [],
+   "bairros": [
+    "Jardim Novo Campo Limpo"
+   ],
+   "vereadores": [
+    "99"
+   ]
+  },
+  {
+   "id": "34362",
+   "processo": "2485",
+   "tipo": "Indicação",
+   "numero": "666",
+   "ano": "2026",
+   "ementa": "O vereador Alessandro Santos, no uso de suas atribuições que lhe confere o artigo 132 do Regimento Interno, INDICA ao Chefe do Poder Executivo Municipal a realização de estudos visando à construção de uma pista de caminhada na Rua José Salgueiro.",
+   "protocolo": "2649",
+   "autores": [
+    "Alessandro Santos"
+   ],
+   "data": "2026-11-17",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 666/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34362",
+   "grupo": "b",
+   "tema": "",
+   "ruas": [
+    "Rua José Salgueiro"
+   ],
+   "bairros": [],
+   "vereadores": [
+    "99"
+   ]
+  },
+  {
+   "id": "34361",
+   "processo": "2484",
+   "tipo": "Indicação",
+   "numero": "665",
+   "ano": "2026",
+   "ementa": "O vereador Alessandro Santos, no uso de suas atribuições que lhe confere o artigo 132 do Regimento Interno, INDICA ao Chefe do Poder Executivo Municipal realização de reparos no pavimento asfáltico da Rua José Mendes de Ferreira, na altura do n.º 570, no bairro Vila Regina.",
+   "protocolo": "2647",
+   "autores": [
+    "Alessandro Santos"
+   ],
+   "data": "2026-11-17",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 665/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34361",
+   "grupo": "b",
+   "tema": "asf",
+   "ruas": [
+    "Rua José Mendes de Ferreira"
+   ],
+   "bairros": [
+    "Vila Regina"
+   ],
+   "vereadores": [
+    "99"
+   ]
+  },
+  {
+   "id": "34333",
+   "processo": "2475",
+   "tipo": "Indicação",
+   "numero": "664",
+   "ano": "2026",
+   "ementa": "O Vereador Diego Paixão, no uso das atribuições que lhe confere o artigo 133 do regimento interno INDICA ao Chefe do Poder Executivo Municipal a instalação de uma Academia Pública e um Parquinho (Playground) na Pracinha, localizada na Rua Moto Grosso, nº 199, com a Rua Rio Grande do Sul, nº 238, no bairro Jardim Silvia, neste município.",
+   "protocolo": "2633",
+   "autores": [
+    "Diego Paixão"
+   ],
+   "data": "2026-11-16",
+   "fase": "Reunião da Comissão",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 664/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34333",
+   "grupo": "b",
+   "tema": "laz",
+   "ruas": [
+    "Rua Moto Grosso",
+    "Rua Rio Grande do Sul"
+   ],
+   "bairros": [
+    "Jardim Sílvia"
+   ],
+   "vereadores": [
+    "88"
    ]
   },
   {
@@ -39831,8 +40265,8 @@
     "Rochinha"
    ],
    "data": "2026-11-05",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 643/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34219",
@@ -39894,8 +40328,8 @@
     "Aline Santos"
    ],
    "data": "2026-11-05",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 641/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34215",
@@ -39927,8 +40361,8 @@
     "Ricardo Almeida"
    ],
    "data": "2026-11-05",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 640/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34216",
@@ -39959,8 +40393,8 @@
     "Vanessa Silva"
    ],
    "data": "2026-11-05",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 639/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34210",
@@ -40297,8 +40731,8 @@
     "Sandra Manente"
    ],
    "data": "2026-10-23",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 626/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34095",
@@ -40327,8 +40761,8 @@
     "Vanessa Silva"
    ],
    "data": "2026-10-23",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 625/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34094",
@@ -40360,8 +40794,8 @@
     "Ricardo Almeida"
    ],
    "data": "2026-10-23",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 624/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34093",
@@ -40564,8 +40998,8 @@
     "Ricardo Almeida"
    ],
    "data": "2026-10-23",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 616/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34085",
@@ -41973,8 +42407,8 @@
     "Aline Santos"
    ],
    "data": "2026-09-29",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 565/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=33786",
@@ -42004,8 +42438,8 @@
     "Aline Santos"
    ],
    "data": "2026-09-29",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 564/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=33785",
@@ -42035,8 +42469,8 @@
     "Aline Santos"
    ],
    "data": "2026-09-29",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 563/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=33784",
@@ -42066,8 +42500,8 @@
     "Aline Santos"
    ],
    "data": "2026-09-29",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 562/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=33782",
@@ -42207,8 +42641,8 @@
     "Aline Santos"
    ],
    "data": "2026-09-24",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 557/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=33764",
@@ -43681,8 +44115,8 @@
     "Ricardo Almeida"
    ],
    "data": "2026-09-02",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 504/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=33409",
@@ -43742,8 +44176,8 @@
     "Ricardo Almeida"
    ],
    "data": "2026-08-31",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 502/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=33444",
@@ -43890,8 +44324,8 @@
     "Vanessa Silva"
    ],
    "data": "2026-08-27",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 497/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=33433",
@@ -43928,8 +44362,8 @@
     "Ricardo Almeida"
    ],
    "data": "2026-08-27",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 496/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=33431",
@@ -44126,8 +44560,8 @@
     "Rochinha"
    ],
    "data": "2026-08-25",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 489/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=33399",
@@ -57798,8 +58232,8 @@
     "Bulhões do Embu"
    ],
    "data": "2026-11-13",
-   "fase": "Verificação da Propositura",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Moção 87/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34320",
@@ -60034,6 +60468,81 @@
    ]
   },
   {
+   "id": "34400",
+   "processo": "2519",
+   "tipo": "Projeto de Decreto Legislativo",
+   "numero": "60",
+   "ano": "2026",
+   "ementa": "Dispõe sobre a concessão de Título de Cidadão Embuense ao Pastor Neemias Rodrigues Bandeira.",
+   "protocolo": "2683",
+   "autores": [
+    "Gilson Oliveira"
+   ],
+   "data": "2026-11-18",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Projeto de Decreto Legislativo 60/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34400",
+   "grupo": "h",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "72"
+   ]
+  },
+  {
+   "id": "34392",
+   "processo": "2506",
+   "tipo": "Projeto de Decreto Legislativo",
+   "numero": "59",
+   "ano": "2026",
+   "ementa": "“Dispõe sobre a concessão de Título de Cidadão Embuense das Artes ao Senhor Edson de Lima Sousa.”",
+   "protocolo": "2670",
+   "autores": [
+    "Rochinha"
+   ],
+   "data": "2026-11-17",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Projeto de Decreto Legislativo 59/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34392",
+   "grupo": "h",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "83"
+   ]
+  },
+  {
+   "id": "34391",
+   "processo": "2505",
+   "tipo": "Projeto de Decreto Legislativo",
+   "numero": "58",
+   "ano": "2026",
+   "ementa": "“Dispõe sobre a concessão de Título de Cidadão Embuense das Artes à Delegada de Polícia Bruna Caroline Biruel Caracho Crippa.”",
+   "protocolo": "2669",
+   "autores": [
+    "Rochinha"
+   ],
+   "data": "2026-11-17",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Projeto de Decreto Legislativo 58/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34391",
+   "grupo": "h",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "83"
+   ]
+  },
+  {
    "id": "34323",
    "processo": "2455",
    "tipo": "Projeto de Decreto Legislativo",
@@ -61501,6 +62010,31 @@
    ]
   },
   {
+   "id": "34389",
+   "processo": "2508",
+   "tipo": "Projeto de Lei",
+   "numero": "159",
+   "ano": "2026",
+   "ementa": "INSTITUI NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE EMBU DAS ARTES O DIA MUNICIPAL DA CONQUISTA DO VOTO FEMININO, A SER COMEMORADO ANUALMENTE EM 24 DE FEVEREIRO, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "protocolo": "2672",
+   "autores": [
+    "Vanessa Silva"
+   ],
+   "data": "2026-11-17",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Projeto de Lei 159/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34389",
+   "grupo": "h",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "87"
+   ]
+  },
+  {
    "id": "33958",
    "processo": "2432",
    "tipo": "Projeto de Lei",
@@ -61562,8 +62096,8 @@
     "Sandra Manente"
    ],
    "data": "2026-11-10",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Discussão e Votação",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Projeto de Lei 156/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34244",
@@ -61589,8 +62123,8 @@
     "Ricardo Almeida"
    ],
    "data": "2026-11-05",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Discussão e Votação",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Projeto de Lei 155/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34225",
@@ -65475,6 +66009,52 @@
    ]
   },
   {
+   "id": "34395",
+   "processo": "2511",
+   "tipo": "Projeto de Lei Complementar",
+   "numero": "10",
+   "ano": "2026",
+   "ementa": "Dispõe sobre concessão de reajuste salarial aos servidores públicos municipais e dá outras providências.",
+   "protocolo": "2675",
+   "autores": [
+    "Hugo Prado"
+   ],
+   "data": "2026-11-17",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Projeto de Lei Complementar 10/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34395",
+   "grupo": "l",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": []
+  },
+  {
+   "id": "34394",
+   "processo": "2510",
+   "tipo": "Projeto de Lei Complementar",
+   "numero": "9",
+   "ano": "2026",
+   "ementa": "Altera a Lei Complementar nº 138, de 12 de março de 2010, que dispõe sobre a Reestruturação do Fundo de Previdência Social do Município de Embu das Artes – EMBUPREV e dá outras providências.",
+   "protocolo": "2674",
+   "autores": [
+    "Hugo Prado"
+   ],
+   "data": "2026-11-17",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Projeto de Lei Complementar 9/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34394",
+   "grupo": "l",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": []
+  },
+  {
    "id": "33843",
    "processo": "2018",
    "tipo": "Projeto de Lei Complementar",
@@ -65486,8 +66066,8 @@
     "Elisabete Alves Carvalho"
    ],
    "data": "2026-10-01",
-   "fase": "Emissão de Manifestação",
-   "setor": "Procuradoria Legislativa",
+   "fase": "Reunião da Comissão",
+   "setor": "Diretoria de Serviços Legislativos",
    "situacao": "Tramitando",
    "codigo": "Projeto de Lei Complementar 8/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=33843",
@@ -65694,8 +66274,8 @@
     "Índio Silva"
    ],
    "data": "2026-11-04",
-   "fase": "Reunião da Comissão",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Promulgar Resolução",
+   "setor": "Gabinete da Presidência",
    "situacao": "Tramitando",
    "codigo": "Projeto de Resolução 6/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34191",
@@ -65727,8 +66307,8 @@
     "Índio Silva"
    ],
    "data": "2026-11-03",
-   "fase": "Reunião da Comissão",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Promulgar Resolução",
+   "setor": "Gabinete da Presidência",
    "situacao": "Tramitando",
    "codigo": "Projeto de Resolução 5/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34161",
@@ -65760,8 +66340,8 @@
     "Índio Silva"
    ],
    "data": "2026-10-20",
-   "fase": "Reunião da Comissão",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Promulgar Resolução",
+   "setor": "Gabinete da Presidência",
    "situacao": "Tramitando",
    "codigo": "Projeto de Resolução 4/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34052",
@@ -83046,376 +83626,8 @@
    "titulo": "Ordinária N° 25",
    "data": "2025-08-27",
    "tem_votacao": true,
-   "votacoes": [
-    {
-     "titulo": "ATA DA 24ª SESSÃO ORDINÁRIA – 20/08/2025",
-     "materia": "",
-     "quorum": "Maioria Simples",
-     "placar": "S:12 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "87": "Sim",
-      "94": "Sim",
-      "88": "Sim",
-      "72": "Sim",
-      "71": "Sim",
-      "75": "Sim",
-      "84": "Sim",
-      "83": "Sim",
-      "63": "Sim",
-      "90": "Sim",
-      "93": "Sim",
-      "76": "Sim"
-     }
-    },
-    {
-     "titulo": "REQUERIMENTO DE URGÊNCIA ESPECIAL AO PROJETO DE RESOLUÇÃO Nº. 11/2025",
-     "materia": "PROJETO DE RESOLUÇÃO 11/2025",
-     "quorum": "Maioria Absoluta",
-     "placar": "S:11 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "93": "Sim",
-      "86": "Sim",
-      "88": "Sim",
-      "95": "Sim",
-      "84": "Sim",
-      "63": "Sim",
-      "76": "Sim",
-      "71": "Sim",
-      "90": "Sim",
-      "87": "Sim",
-      "75": "Sim"
-     }
-    },
-    {
-     "titulo": "PROJETO DE RESOLUÇÃO Nº. 11/2025 DE AUTORIA DA MESA DA CÂMARA DISPÕE SOBRE A DEVOLUÇÃO DE BENS DO PATRIMÔNIO À PREFEITURA MUNICIPAL DA ESTÂNCIA TURÍSTICA DE EMBU DAS ARTES",
-     "materia": "PROJETO DE RESOLUÇÃO 11/2025",
-     "quorum": "Maioria Absoluta",
-     "placar": "S:13 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "90": "Sim",
-      "88": "Sim",
-      "93": "Sim",
-      "76": "Sim",
-      "63": "Sim",
-      "71": "Sim",
-      "72": "Sim",
-      "86": "Sim",
-      "95": "Sim",
-      "84": "Sim",
-      "94": "Sim",
-      "75": "Sim",
-      "87": "Sim"
-     }
-    },
-    {
-     "titulo": "PROJETO DE LEI Nº. 71/2025 DE AUTORIA DO VEREADOR GUSTAVO DO RANCHO “DISPÕE SOBRE A INCLUSÃO DO FESTIVAL DE INVERNO NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO E DÁ OUTRAS PROVIDÊNCIAS”",
-     "materia": "PROJETO DE LEI 71/2025",
-     "quorum": "Maioria Simples",
-     "placar": "S:14 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "83": "Sim",
-      "86": "Sim",
-      "87": "Sim",
-      "90": "Sim",
-      "95": "Sim",
-      "84": "Sim",
-      "88": "Sim",
-      "72": "Sim",
-      "75": "Sim",
-      "76": "Sim",
-      "94": "Sim",
-      "71": "Sim",
-      "91": "Sim",
-      "93": "Sim"
-     }
-    },
-    {
-     "titulo": "PROJETO DE LEI Nº. 88/2025 DE AUTORIA DOS VEREADORES GUSTAVO DO RANCHO E ROCHINHA “DISPÕE SOBRE A PROIBIÇÃO DA FABRICAÇÃO, COMERCIALIZAÇÃO E UTILIZAÇÃO DE COLEIRAS ANTILATIDO QUE OPEREM POR MEIO DE IMPULSOS ELETRÔNICOS (“COLEIRAS DE CHOQUE”) NO ÂMBITO DO MUNICÍPIO DE EMBU DAS ARTES, E DÁ OUTRAS PROVIDÊNCIAS”",
-     "materia": "PROJETO DE LEI 88/2025",
-     "quorum": "Maioria Simples",
-     "placar": "S:14 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "84": "Sim",
-      "87": "Sim",
-      "75": "Sim",
-      "93": "Sim",
-      "90": "Sim",
-      "95": "Sim",
-      "72": "Sim",
-      "71": "Sim",
-      "91": "Sim",
-      "94": "Sim",
-      "88": "Sim",
-      "76": "Sim",
-      "63": "Sim",
-      "86": "Sim"
-     }
-    },
-    {
-     "titulo": "MOÇÃO DE APLAUSO Nº. 62/2025 DE AUTORIA DO VEREADOR BETINHO MOÇÃO DE APLAUSOS COM O RECEBIMENTO DE MEDALHAS DE HONRA AO MÉRITO PARA O GRUPO INSANOS EM RECONHECIMENTO AOS RELEVANTES SERVIÇOS PRESTADOS À COMUNIDADE POR MEIO DE SUAS AÇÕES SOCIAIS",
-     "materia": "MOÇÃO 62/2025",
-     "quorum": "Maioria Simples",
-     "placar": "S:15 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "76": "Sim",
-      "91": "Sim",
-      "84": "Sim",
-      "72": "Sim",
-      "75": "Sim",
-      "95": "Sim",
-      "86": "Sim",
-      "87": "Sim",
-      "88": "Sim",
-      "71": "Sim",
-      "90": "Sim",
-      "63": "Sim",
-      "83": "Sim",
-      "93": "Sim",
-      "94": "Sim"
-     }
-    },
-    {
-     "titulo": "MOÇÃO DE APLAUSO Nº. 63/2025 DE AUTORIA DO VEREADOR GIDEON JUNIOR MOÇÃO DE APLAUSOS COM O RECEBIMENTO DE MEDALHA DE HONRA AO MÉRITO PARA GILMARA DO AMOR DIVINO GUEDES",
-     "materia": "MOÇÃO 63/2025",
-     "quorum": "Maioria Simples",
-     "placar": "S:13 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "86": "Sim",
-      "95": "Sim",
-      "90": "Sim",
-      "76": "Sim",
-      "87": "Sim",
-      "72": "Sim",
-      "75": "Sim",
-      "91": "Sim",
-      "88": "Sim",
-      "94": "Sim",
-      "83": "Sim",
-      "93": "Sim",
-      "84": "Sim"
-     }
-    },
-    {
-     "titulo": "MOÇÃO DE REPÚDIO Nº. 64/2025 DE AUTORIA DO VEREADOR ABEL ARANTES REPÚDIO ÀS DECLARAÇÕES DO VEREADOR DAVISON SANTOS (PSDB) DA CÂMARA MUNICIPAL DE CARAPICUÍBA, PROFERIDAS NA 24ª SESSÃO ORDINÁRIA, CONCERNENTES AO EX-PREFEITO DE EMBU DAS ARTES, NEY SANTOS.",
-     "materia": "MOÇÃO 64/2025",
-     "quorum": "Maioria Simples",
-     "placar": "S:15 | N:2 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "91": "Sim",
-      "90": "Sim",
-      "75": "Sim",
-      "95": "Sim",
-      "84": "Sim",
-      "76": "Sim",
-      "86": "Sim",
-      "87": "Sim",
-      "63": "Não",
-      "88": "Sim",
-      "72": "Sim",
-      "93": "Não",
-      "71": "Sim",
-      "83": "Sim",
-      "94": "Sim",
-      "62": "Sim",
-      "89": "Sim"
-     }
-    },
-    {
-     "titulo": "MOÇÃO DE APLAUSO Nº. 65/2025 DE AUTORIA DO VEREADOR GIDEON JUNIOR MOÇÃO DE APLAUSO PELA AÇÃO QUE RESULTOU NO RESGATE DE MAIS DE 200 (DUZENTOS) ANIMAIS DE CANIL CLANDESTINO EM EMBU DAS ARTES.",
-     "materia": "MOÇÃO 65/2025",
-     "quorum": "Maioria Simples",
-     "placar": "S:15 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "87": "Sim",
-      "90": "Sim",
-      "63": "Sim",
-      "86": "Sim",
-      "75": "Sim",
-      "93": "Sim",
-      "89": "Sim",
-      "88": "Sim",
-      "94": "Sim",
-      "95": "Sim",
-      "76": "Sim",
-      "83": "Sim",
-      "91": "Sim",
-      "71": "Sim",
-      "72": "Sim"
-     }
-    },
-    {
-     "titulo": "INDICAÇÕES Nº. 320, 321, 323 E 324/2025 DE AUTORIA DO VEREADOR GIDEON JÚNIOR Indicação Nº. 320/2025 de autoria do Vereador Gideon Santos do Nascimento Júnior – “Indica ao Chefe do Poder Executivo Municipal que seja efetuado estudos sobre a “restauração da quadra do memorial Sakai, localizada na rua Rebolo Gonzáles, Vila Cercado. Grande”; Indicação Nº. 321/2025 de autoria do Vereador Gideon Santos ",
-     "materia": "INDICAÇÃO 320/2025",
-     "quorum": "Maioria Simples",
-     "placar": "S:12 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "91": "Sim",
-      "93": "Sim",
-      "75": "Sim",
-      "71": "Sim",
-      "76": "Sim",
-      "83": "Sim",
-      "89": "Sim",
-      "72": "Sim",
-      "87": "Sim",
-      "95": "Sim",
-      "86": "Sim",
-      "88": "Sim"
-     }
-    },
-    {
-     "titulo": "INDICAÇÕES Nº. 493, 494, 495, 496 E 497/2025 DE AUTORIA DO VEREADOR ROCHINHA Indicação Nº. 493/2025 de autoria do Vereador Reginaldo Rocha Santana – “Indica ao chefe do Poder Executivo Municipal que seja efetuado estudo para implementação de guias, sarjetas, bloquete, calçada e capitação de águas ﬂuviais na Rua Catarina Mendes Gaspar CEP: 06845-293 – Bairro Capuava - Embu das Artes”; Indicação Nº.",
-     "materia": "INDICAÇÃO 493/2025",
-     "quorum": "Maioria Simples",
-     "placar": "S:9 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "83": "Sim",
-      "76": "Sim",
-      "93": "Sim",
-      "88": "Sim",
-      "89": "Sim",
-      "86": "Sim",
-      "87": "Sim",
-      "72": "Sim",
-      "71": "Sim"
-     }
-    },
-    {
-     "titulo": "INDICAÇÃO Nº. 642/2025 DE AUTORIA DO VEREADOR LÚCIO COSTA Indicação Nº. 642/2025 de autoria do Vereador Renato Lúcio da Costa Barboza – “Indica ao Chefe do Poder Executivo Municipal que seja realizado estudo técnico para a instalação de grama sintética na quadra do Jardim Novo Embu”;",
-     "materia": "INDICAÇÃO 642/2025",
-     "quorum": "Maioria Simples",
-     "placar": "S:11 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "91": "Sim",
-      "95": "Sim",
-      "76": "Sim",
-      "88": "Sim",
-      "83": "Sim",
-      "89": "Sim",
-      "93": "Sim",
-      "71": "Sim",
-      "72": "Sim",
-      "87": "Sim",
-      "75": "Sim"
-     }
-    },
-    {
-     "titulo": "INDICAÇÃO Nº. 651/2025 DE AUTORIA DO VEREADOR BOBILEL CASTILHO Indicação Nº. 651/2025 de autoria do Vereador Flávio Pereira Lima – “Indica ao Chefe do poder executivo municipal que seja feito uma academia e um parquinho em torno do campo do Magali, localizado na Rua Sebastião Aniceto Jesus Lins, 77-167 - Jardim Magali”;",
-     "materia": "INDICAÇÃO 651/2025",
-     "quorum": "Maioria Simples",
-     "placar": "S:12 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "88": "Sim",
-      "91": "Sim",
-      "93": "Sim",
-      "87": "Sim",
-      "86": "Sim",
-      "83": "Sim",
-      "95": "Sim",
-      "75": "Sim",
-      "71": "Sim",
-      "89": "Sim",
-      "76": "Sim",
-      "72": "Sim"
-     }
-    },
-    {
-     "titulo": "INDICAÇÕES Nº. 653 E 654/2025 DE AUTORIA DO VEREADOR DIEGO PAIXÃO Indicação Nº. 653/2025 de autoria dos Vereadores Diego Lopes da Paixão, Leonel Augusto de Novais Filho e Renato Lúcio da Costa Barboza – “Indica ao Excelentíssimo Senhor Prefeito Municipal a implantação de uma linha de ônibus municipal que conecte a região da Servidão, no Bairro Vista Alegre, ao Bairro Jardim Mimas, no município de ",
-     "materia": "INDICAÇÃO 653/2025",
-     "quorum": "Maioria Simples",
-     "placar": "S:12 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "93": "Sim",
-      "89": "Sim",
-      "88": "Sim",
-      "91": "Sim",
-      "76": "Sim",
-      "83": "Sim",
-      "86": "Sim",
-      "72": "Sim",
-      "95": "Sim",
-      "87": "Sim",
-      "75": "Sim",
-      "71": "Sim"
-     }
-    },
-    {
-     "titulo": "INDICAÇÃO Nº. 655/2025 DE AUTORIA DOS VEREADORES JUNECA E LEO NOVAIS Indicação Nº. 655/2025 de autoria dos Vereadores Edivaldo Floriano dos Santos Filho e Leonel Augusto de Novais Filho – “Indica ao Chefe do Poder Executivo Municipal a realização de estudo de viabilidade para a construção de uma praça com parque infantil no terreno situado ao lado da Escola Municipal Vazame, no encontro entre a ru",
-     "materia": "INDICAÇÃO 655/2025",
-     "quorum": "Maioria Simples",
-     "placar": "S:12 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "89": "Sim",
-      "93": "Sim",
-      "88": "Sim",
-      "95": "Sim",
-      "76": "Sim",
-      "86": "Sim",
-      "83": "Sim",
-      "87": "Sim",
-      "72": "Sim",
-      "71": "Sim",
-      "91": "Sim",
-      "90": "Sim"
-     }
-    },
-    {
-     "titulo": "INDICAÇÕES Nº. 659/2025 DE AUTORIA DA VEREADORA SANDRA MANENTE Indicação Nº. 659/2025 de autoria da Vereadora Sandra Dias do Nascimento – “Indica ao Chefe do poder executivo municipal a implantação de academia pública ao ar livre, reforma do parquinho infantil, instalação de bancos e reforma da quadra poliesportiva, ambos na Rua Chico Mendes”.",
-     "materia": "INDICAÇÃO 659/2025",
-     "quorum": "Maioria Simples",
-     "placar": "S:12 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "89": "Sim",
-      "76": "Sim",
-      "87": "Sim",
-      "91": "Sim",
-      "83": "Sim",
-      "88": "Sim",
-      "95": "Sim",
-      "93": "Sim",
-      "72": "Sim",
-      "90": "Sim",
-      "71": "Sim",
-      "86": "Sim"
-     }
-    }
-   ],
-   "presenca": {
-    "62": "Presente",
-    "63": "Presente",
-    "75": "Presente",
-    "88": "Presente",
-    "91": "Presente",
-    "72": "Presente",
-    "89": "Presente",
-    "71": "Presente",
-    "84": "Presente",
-    "90": "Presente",
-    "76": "Presente",
-    "95": "---",
-    "94": "Presente",
-    "83": "Presente",
-    "93": "Presente",
-    "87": "Presente",
-    "86": "Presente"
-   },
-   "url_votacao": "https://nopapercloud.cmembu.sp.gov.br/Arquivo/Documents/SES/308/sessao_308_2025082715012009754812IUYV.pdf?identificador=30003A005300"
+   "erro": "erro: Stream has ended unexpectedly",
+   "url_votacao": "https://nopapercloud.cmembu.sp.gov.br/Arquivo/Documents/SES/308/sessao_308_202508271501308789639S51TE.doc"
   },
   {
    "id": "307",
@@ -86675,412 +86887,9 @@
    "titulo": "Ordinária N° 13",
    "data": "2025-04-30",
    "tem_votacao": true,
-   "votacoes": [
-    {
-     "titulo": "ATA DA 12ª (DÉCIMA SEGUNDA) SESSÃO ORDINÁRIA - 23/04/2025",
-     "materia": "",
-     "quorum": "Maioria Simples",
-     "placar": "S:16 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "93": "Sim",
-      "91": "Sim",
-      "88": "Sim",
-      "71": "Sim",
-      "89": "Sim",
-      "67": "Sim",
-      "72": "Sim",
-      "63": "Sim",
-      "66": "Sim",
-      "87": "Sim",
-      "90": "Sim",
-      "84": "Sim",
-      "92": "Sim",
-      "85": "Sim",
-      "83": "Sim",
-      "74": "Sim"
-     }
-    },
-    {
-     "titulo": "REQUERIMENTO DE TRAMITAÇÃO EM REGIME DE URGÊNCIA ESPECIAL PROJETO DE LEI COMPLEMENTAR Nº. 07/2025",
-     "materia": "PROJETO DE LEI COMPLEMENTAR 07/2025",
-     "quorum": "Maioria Absoluta",
-     "placar": "S:19 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "91": "Sim",
-      "67": "Sim",
-      "77": "Sim",
-      "65": "Sim",
-      "86": "Sim",
-      "71": "Sim",
-      "89": "Sim",
-      "84": "Sim",
-      "66": "Sim",
-      "74": "Sim",
-      "87": "Sim",
-      "92": "Sim",
-      "90": "Sim",
-      "83": "Sim",
-      "72": "Sim",
-      "85": "Sim",
-      "63": "Sim",
-      "93": "Sim",
-      "88": "Sim"
-     }
-    },
-    {
-     "titulo": "REQUERIMENTO DE URGÊNCIA ESPECIAL AO PROJETO DE LEI N°. 56/2025",
-     "materia": "REQUERIMENTO 56/2025",
-     "quorum": "Maioria Absoluta",
-     "placar": "S:18 | N:0 | A:1",
-     "resultado": "APROVADO",
-     "votos": {
-      "91": "Sim",
-      "66": "Sim",
-      "72": "Sim",
-      "93": "Sim",
-      "74": "Sim",
-      "71": "Sim",
-      "92": "Sim",
-      "77": "Sim",
-      "83": "Sim",
-      "89": "Sim",
-      "90": "Sim",
-      "63": "Absteve",
-      "85": "Sim",
-      "65": "Sim",
-      "88": "Sim",
-      "86": "Sim",
-      "84": "Sim",
-      "67": "Sim",
-      "87": "Sim"
-     }
-    },
-    {
-     "titulo": "REQUERIMENTO DE URGÊNCIA ESPECIAL AO PROJETO DE DECRETO LEGISLATIVO Nº. 09/2025",
-     "materia": "PROJETO DE DECRETO LEGISLATIVO 09/2025",
-     "quorum": "Maioria Absoluta",
-     "placar": "S:18 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "63": "Sim",
-      "67": "Sim",
-      "88": "Sim",
-      "89": "Sim",
-      "72": "Sim",
-      "93": "Sim",
-      "91": "Sim",
-      "83": "Sim",
-      "77": "Sim",
-      "71": "Sim",
-      "85": "Sim",
-      "87": "Sim",
-      "86": "Sim",
-      "84": "Sim",
-      "90": "Sim",
-      "74": "Sim",
-      "92": "Sim",
-      "65": "Sim"
-     }
-    },
-    {
-     "titulo": "PROJETO DE EMENDA À LEI ORGÂNICA Nº. 01/2025 DE AUTORIA DA MESA DA CÂMARA – 2ª DISCUSSÃO E VOTAÇÃO Acrescenta o Art. 142-A a Lei Orgânica, que disciplina as emendas parlamentares individuais impositivas ao Projeto de Lei Orçamentária Anual – LOA.",
-     "materia": "EMENDA 01/2025",
-     "quorum": "Maioria Absoluta",
-     "placar": "S:19 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "91": "Sim",
-      "74": "Sim",
-      "65": "Sim",
-      "77": "Sim",
-      "63": "Sim",
-      "67": "Sim",
-      "89": "Sim",
-      "84": "Sim",
-      "90": "Sim",
-      "93": "Sim",
-      "86": "Sim",
-      "85": "Sim",
-      "88": "Sim",
-      "87": "Sim",
-      "92": "Sim",
-      "71": "Sim",
-      "83": "Sim",
-      "72": "Sim",
-      "66": "Sim"
-     }
-    },
-    {
-     "titulo": "PROCESSO TC 007295.989.20-6 - PARECER DO TRIBUNAL DE CONTAS DO ESTADO DE SÃO PAULO REFERENTE ÀS CONTAS DO PODER EXECUTIVO DA ESTÂNCIA TURÍSTICA DE EMBU DAS ARTES NO EXERCÍCIO DE 2021 Processo TC 007295.989.20-6 – Parecer do Tribunal de Contas do Estado de São Paulo referente às Contas do Poder Executivo da Estância Turística de Embu das Artes no exercício de 2021 de autoria do Tribunal de Contas d",
-     "materia": "",
-     "quorum": "Maioria Qualiﬁcada 2/3",
-     "placar": "S:1 | N:0 | A:0",
-     "resultado": "",
-     "votos": {
-      "89": "Sim"
-     }
-    },
-    {
-     "titulo": "PROJETO DE LEI COMPLEMENTAR Nº. 07/2025 “Altera o anexo III da Lei Complementar 356 de 9 de fevereiro de 2018”.",
-     "materia": "PROJETO DE LEI COMPLEMENTAR 07/2025",
-     "quorum": "Maioria Absoluta",
-     "placar": "S:18 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "71": "Sim",
-      "65": "Sim",
-      "88": "Sim",
-      "67": "Sim",
-      "86": "Sim",
-      "83": "Sim",
-      "90": "Sim",
-      "77": "Sim",
-      "72": "Sim",
-      "66": "Sim",
-      "93": "Sim",
-      "89": "Sim",
-      "92": "Sim",
-      "74": "Sim",
-      "84": "Sim",
-      "63": "Sim",
-      "87": "Sim",
-      "85": "Sim"
-     }
-    },
-    {
-     "titulo": "PROJETO DE LEI N°. 56/2025 DE AUTORIA DO VEREADOR JOSÉ DE SOUZA SANTOS “ALTERA O ART. 1º, §§ 1º E 2º, ADICIONA O ART 1º - A §§ 1º E 2º, E ALTERA OS ANEXOS DA LEI 3378 DE 02 DE MARÇO DE 2023 E DÁ OUTRAS PROVIDÊNCIAS”.",
-     "materia": "PROJETO DE LEI 56/2025",
-     "quorum": "Maioria Qualiﬁcada 2/3",
-     "placar": "S:16 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "74": "Sim",
-      "93": "Sim",
-      "63": "Sim",
-      "77": "Sim",
-      "86": "Sim",
-      "66": "Sim",
-      "85": "Sim",
-      "83": "Sim",
-      "67": "Sim",
-      "88": "Sim",
-      "65": "Sim",
-      "71": "Sim",
-      "87": "Sim",
-      "92": "Sim",
-      "89": "Sim",
-      "84": "Sim"
-     }
-    },
-    {
-     "titulo": "PROJETO DE DECRETO LEGISLATIVO N°. 09/2025 DE AUTORIA DO VEREADOR JOSÉ DE SOUZA SANTOS “Dispõe sobre a concessão de Título de Cidadão Embuense das Artes ao Senhor Rosalvo Salgueiro Silva.”.",
-     "materia": "PROJETO DE DECRETO LEGISLATIVO 09/2025",
-     "quorum": "Maioria Qualiﬁcada 2/3",
-     "placar": "S:18 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "74": "Sim",
-      "63": "Sim",
-      "84": "Sim",
-      "93": "Sim",
-      "65": "Sim",
-      "72": "Sim",
-      "71": "Sim",
-      "86": "Sim",
-      "77": "Sim",
-      "85": "Sim",
-      "67": "Sim",
-      "83": "Sim",
-      "89": "Sim",
-      "66": "Sim",
-      "88": "Sim",
-      "92": "Sim",
-      "90": "Sim",
-      "87": "Sim"
-     }
-    },
-    {
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3864/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3864, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 25/2025 que: “Dispõe sobre a proteção e bem-estar animal no Município de Embu das Artes e dá outras providências”",
-     "materia": "VETO 3864/2025",
-     "quorum": "Maioria Absoluta",
-     "placar": "S:2 | N:17 | A:0",
-     "resultado": "REPROVADO",
-     "votos": {
-      "89": "Não",
-      "83": "Sim",
-      "63": "Não",
-      "67": "Não",
-      "92": "Não",
-      "86": "Não",
-      "87": "Não",
-      "93": "Não",
-      "65": "Não",
-      "74": "Não",
-      "66": "Não",
-      "71": "Não",
-      "85": "Não",
-      "77": "Não",
-      "88": "Não",
-      "91": "Não",
-      "72": "Sim",
-      "84": "Não",
-      "90": "Não"
-     }
-    },
-    {
-     "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3865/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao Autógrafo Nº. 3865, de 19 de março de 2025 de autoria do Prefeito Municipal Hugo do Prado Santos – Referente ao Projeto de Lei nº 36/2025, que: “Dispõe sobre a denominação da Escola Municipal Professora Cleusa Oliveira Costa”",
-     "materia": "VETO 3865/2025",
-     "quorum": "Maioria Absoluta",
-     "placar": "S:0 | N:19 | A:0",
-     "resultado": "REPROVADO",
-     "votos": {
-      "63": "Não",
-      "88": "Não",
-      "65": "Não",
-      "91": "Não",
-      "71": "Não",
-      "67": "Não",
-      "92": "Não",
-      "83": "Não",
-      "77": "Não",
-      "86": "Não",
-      "90": "Não",
-      "89": "Não",
-      "93": "Não",
-      "87": "Não",
-      "72": "Não",
-      "66": "Não",
-      "85": "Não",
-      "84": "Não",
-      "74": "Não"
-     }
-    },
-    {
-     "titulo": "MOÇÃO DE APLAUSOS Nº. 27/2025 DE AUTORIA DO VEREADOR JOÃO PAULO Moção de Aplausos ao Servidor Sr. Gabriel Fidelis, que tem prestado serviços relevantes à cidade de Embu das Artes.",
-     "materia": "MOÇÃO 27/2025",
-     "quorum": "Maioria Simples",
-     "placar": "S:17 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "89": "Sim",
-      "65": "Sim",
-      "86": "Sim",
-      "77": "Sim",
-      "67": "Sim",
-      "92": "Sim",
-      "74": "Sim",
-      "93": "Sim",
-      "66": "Sim",
-      "90": "Sim",
-      "83": "Sim",
-      "84": "Sim",
-      "91": "Sim",
-      "85": "Sim",
-      "88": "Sim",
-      "72": "Sim",
-      "71": "Sim"
-     }
-    },
-    {
-     "titulo": "MOÇÃO DE APOIO Nº. 28/2025 DE AUTORIA DO VEREADOR LEO NOVAIS MOÇÃO DE APOIO ao Projeto de Decreto Legislativo 3/2025, que susta os efeitos da Resolução nº 258, de 23 de dezembro de 2024, do Conselho Nacional dos Direitos da Criança e do Adolescente, e ao Projeto de Lei 1904/2024 que tramita no Congresso Nacional, que visa impedir que o aborto seja reconhecido como direito, sem previsão de limite d",
-     "materia": "MOÇÃO 28/2025",
-     "quorum": "Maioria Simples",
-     "placar": "S:3 | N:0 | A:0",
-     "resultado": "",
-     "votos": {
-      "65": "Sim",
-      "83": "Sim",
-      "85": "Sim"
-     }
-    },
-    {
-     "titulo": "MOÇÃO DE APLAUSOS Nº. 29/2025 DE AUTORIA DO VEREADOR GILSON OLIVEIRA Moção de Aplausos para Adilson Vitor de Jesus, pastor da congregação de Jardim da Luz, pela sua trajetória marcada pelo serviço à comunidade e pela liderança espiritual.",
-     "materia": "MOÇÃO 29/2025",
-     "quorum": "Maioria Simples",
-     "placar": "S:16 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "67": "Sim",
-      "65": "Sim",
-      "86": "Sim",
-      "72": "Sim",
-      "77": "Sim",
-      "85": "Sim",
-      "89": "Sim",
-      "93": "Sim",
-      "84": "Sim",
-      "66": "Sim",
-      "74": "Sim",
-      "91": "Sim",
-      "87": "Sim",
-      "71": "Sim",
-      "90": "Sim",
-      "83": "Sim"
-     }
-    },
-    {
-     "titulo": "INDICAÇÃO DE AUTORIA DO VEREADOR BOBILEL CASTILHO E DEMAIS VEREADORES Indicação nº. 402/2025 de autoria dos Vereadores Flávio Pereira Lima, Edivaldo Floriano dos Santos Filho, Gilberto Oliveira da Silva, Leonel Augusto de Novais Filho e Reginaldo Rocha Santana – “INDICA ao Chefe do poder executivo municipal que seja realizado um estudo técnico e administrativo para a criação do \"Poupatempo do Empr",
-     "materia": "INDICAÇÃO 402/2025",
-     "quorum": "Maioria Simples",
-     "placar": "S:1 | N:0 | A:0",
-     "resultado": "",
-     "votos": {
-      "65": "Sim"
-     }
-    },
-    {
-     "titulo": "INDICAÇÃO DE AUTORIA DO VEREADOR BOBILEL CASTILHO E DEMAIS VEREADORES Indicação nº. 402/2025 de autoria dos Vereadores Flávio Pereira Lima, Edivaldo Floriano dos Santos Filho, Gilberto Oliveira da Silva, Leonel Augusto de Novais Filho e Reginaldo Rocha Santana – “INDICA ao Chefe do poder executivo municipal que seja realizado um estudo técnico e administrativo para a criação do \"Poupatempo do Empr",
-     "materia": "INDICAÇÃO 402/2025",
-     "quorum": "Maioria Simples",
-     "placar": "S:18 | N:0 | A:0",
-     "resultado": "APROVADO",
-     "votos": {
-      "77": "Sim",
-      "93": "Sim",
-      "83": "Sim",
-      "65": "Sim",
-      "74": "Sim",
-      "88": "Sim",
-      "67": "Sim",
-      "92": "Sim",
-      "63": "Sim",
-      "71": "Sim",
-      "87": "Sim",
-      "72": "Sim",
-      "91": "Sim",
-      "86": "Sim",
-      "66": "Sim",
-      "89": "Sim",
-      "84": "Sim",
-      "90": "Sim"
-     }
-    }
-   ],
-   "presenca": {
-    "62": "Presente",
-    "63": "---",
-    "65": "---",
-    "66": "Presente",
-    "67": "Presente",
-    "74": "---",
-    "88": "Presente",
-    "91": "Presente",
-    "72": "Presente",
-    "89": "---",
-    "71": "Presente",
-    "92": "Presente",
-    "84": "Presente",
-    "90": "Presente",
-    "85": "Presente",
-    "77": "Presente",
-    "83": "---",
-    "93": "Presente",
-    "87": "Presente",
-    "86": "Presente"
-   },
-   "url_votacao": "https://nopapercloud.cmembu.sp.gov.br/Arquivo/Documents/SES/294/sessao_294_202504301451022379563JHLS2.pdf?identificador=30003A005300"
+   "votacoes": [],
+   "presenca": {},
+   "url_votacao": "https://nopapercloud.cmembu.sp.gov.br/Arquivo/Documents/SES/294/sessao_294_202504301453337401804ZE9D5.pdf?identificador=30003A005300"
   },
   {
    "id": "293",
@@ -91203,33 +91012,33 @@
   }
  ],
  "catot": {
-  "b": 1473,
-  "o": 144,
-  "h": 317,
+  "b": 1491,
+  "o": 150,
+  "h": 321,
   "c": 36,
-  "l": 266
+  "l": 268
  },
  "tipos": {
-  "Indicação": 1473,
+  "Indicação": 1491,
   "Moção": 186,
   "Requerimento": 36,
-  "Projeto de Lei": 298,
-  "Projeto de Lei Complementar": 35,
-  "Projeto de Decreto Legislativo": 114,
+  "Projeto de Lei": 299,
+  "Projeto de Lei Complementar": 37,
+  "Projeto de Decreto Legislativo": 117,
   "Projeto de Resolução": 21,
   "Proposta de Emenda à Lei Orgânica": 2,
-  "Emenda": 9,
+  "Emenda": 15,
   "Veto": 13,
   "Emenda Impositiva 2025-2026": 49
  },
  "bairros": [
   [
    "Jardim Pinheirinho",
-   68
+   69
   ],
   [
    "Jardim Sílvia",
-   51
+   52
   ],
   [
    "Jardim Vista Alegre",
@@ -91277,7 +91086,7 @@
   ],
   [
    "Jardim Batista",
-   17
+   18
   ],
   [
    "Jardim Independência",
@@ -91348,6 +91157,10 @@
    10
   ],
   [
+   "Jardim Casa Branca",
+   10
+  ],
+  [
    "Vila Cercado Grande",
    10
   ],
@@ -91364,6 +91177,10 @@
    9
   ],
   [
+   "Jardim Novo Campo Limpo",
+   9
+  ],
+  [
    "Jardim dos Moraes",
    9
   ],
@@ -91377,14 +91194,6 @@
   ],
   [
    "Parque Esplanada",
-   8
-  ],
-  [
-   "Jardim Casa Branca",
-   8
-  ],
-  [
-   "Jardim Novo Campo Limpo",
    8
   ],
   [
@@ -91426,6 +91235,10 @@
   [
    "Jardim do Colégio Em Embu das Artes",
    6
+  ],
+  [
+   "Jardim Tomé",
+   5
   ],
   [
    "Parque Luiza",
@@ -91486,10 +91299,6 @@
   [
    "Residencial Fama",
    5
-  ],
-  [
-   "Jardim Tomé",
-   4
   ],
   [
    "Jardim Flórida",
@@ -91997,12 +91806,12 @@
    ]
   }
  ],
- "n_votacoes": 970,
- "unanimes": 847,
+ "n_votacoes": 938,
+ "unanimes": 818,
  "valores_voto": {
-  "Sim": 13715,
-  "Não": 473,
-  "Absteve": 35
+  "Sim": 13313,
+  "Não": 435,
+  "Absteve": 34
  },
  "sessoes_sem_registro": [
   {
@@ -92014,12 +91823,20 @@
    "titulo": "Ordinária N° 37"
   },
   {
+   "data": "2025-08-27",
+   "titulo": "Ordinária N° 25"
+  },
+  {
    "data": "2025-08-20",
    "titulo": "Ordinária N° 24"
   },
   {
    "data": "2025-06-11",
    "titulo": "Ordinária N° 19"
+  },
+  {
+   "data": "2025-04-30",
+   "titulo": "Ordinária N° 13"
   },
   {
    "data": "2025-04-16",
@@ -92031,7 +91848,7 @@
   }
  ],
  "autores_sem_vereador": {
-  "Hugo Prado": 28,
+  "Hugo Prado": 30,
   "PREFEITO MUNICIPAL": 26,
   "GILBERTO MAXIMILIANO CERCOVENICO FERREIRA": 12,
   "Hugo do Prado Santos": 8,
