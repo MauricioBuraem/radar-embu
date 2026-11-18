@@ -3,6 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Segurança: só roda os scripts do próprio site; nada de formulários, frames ou conexões externas -->
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
 <title>Radar Embu</title>
 <meta name="description" content="Raio-X da Câmara de Embu das Artes: o que cada vereador propôs, como votou e quantas sessões frequentou, atualizado todo dia.">
 <meta property="og:title" content="Radar Embu">

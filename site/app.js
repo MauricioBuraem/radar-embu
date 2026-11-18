@@ -7,6 +7,9 @@ const MES=['jan','fev','mar','abr','mai','jun','jul','ago','set','out','nov','de
 const dt=s=>{s=String(s).replace(/-/g,'');return `${+s.slice(6,8)} ${MES[+s.slice(4,6)-1]} ${s.slice(0,4)}`};
 const mesAno=s=>{s=String(s).replace(/-/g,'');return `${MES[+s.slice(4,6)-1]} ${s.slice(0,4)}`};
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+/* links vindos dos dados: só https (bloqueia javascript: e afins, mesmo se o sistema da Câmara for adulterado) */
+const url=s=>/^https:\/\//i.test(String(s??''))?esc(s):'#';
+const mail=s=>/^[^\s@<>"']+@[^\s@<>"']+$/.test(String(s??''))?esc(s):'';
 const norm=s=>String(s).normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
 const $=id=>document.getElementById(id);
 const svg=(p,s=22)=>`<svg width="${s}" height="${s}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${p}</svg>`;
@@ -104,7 +107,7 @@ function openNaos(vi){
   openSheet('o','sign',`Quando ${v.ap} não votou “sim”`,`${v.naos.length} ${v.naos.length===1?'votação':'votações'} desde a posse`);
   $('sh-b').innerHTML='<ul class="items">'+v.naos.map(n=>`<li class="it k-o"><span class="ic">${svg(ICON.sign)}</span><div><p class="tx">${esc(n.t)}</p>
     <div class="mt"><span class="stt ${n.v==='nao'?'no':''}">${n.v==='nao'?'Votou não':'Absteve-se'}</span>${n.r?`<span>Resultado: ${esc(n.r.toLowerCase())}</span>`:''}<span>·</span><span>${dt(n.d)}</span></div>
-    <div class="ft"><span class="mute">${esc(n.m||'')}</span>${n.u?`<a class="ext" href="${esc(n.u)}" target="_blank" rel="noopener">Ver na Câmara ↗</a>`:''}</div></div></li>`).join('')+'</ul>';
+    <div class="ft"><span class="mute">${esc(n.m||'')}</span>${n.u?`<a class="ext" href="${url(n.u)}" target="_blank" rel="noopener">Ver na Câmara ↗</a>`:''}</div></div></li>`).join('')+'</ul>';
 }
 
 /* ---------- topo ---------- */
@@ -153,10 +156,10 @@ function openRep(g){
   if(who.length){
     const sel=$('cob-v'), ta=$('cob-t');
     const links=()=>{const v=V[+sel.value], t=encodeURIComponent(ta.value);
-      $('cob-a').innerHTML=(v.email?`<a class="btn br" href="mailto:${esc(v.email)}?subject=${encodeURIComponent(g.r+': o problema continua')}&body=${t}">Enviar por e-mail</a>`:'')
+      $('cob-a').innerHTML=(v.email?`<a class="btn br" href="mailto:${mail(v.email)}?subject=${encodeURIComponent(g.r+': o problema continua')}&body=${t}">Enviar por e-mail</a>`:'')
         +`<a class="btn wa" href="https://wa.me/${CENTRAL_WA}?text=${encodeURIComponent(waCentral(v.ap,ta.value))}" target="_blank" rel="noopener">Pedir cobrança no WhatsApp</a>`;
       $('cob-c').innerHTML=`O WhatsApp vai para a <b>Central de Notícias</b> (11 91649-2207), que leva a cobrança a ${esc(v.ap)}.<br>`+[v.email?`E-mail oficial: <b>${esc(v.email)}</b>`:'',v.tel?`Telefone do gabinete: <b>${esc(v.tel)}</b>`:''].filter(Boolean).join(' · ')
-        +(v.email?'':`${v.tel?'<br>':''}A Câmara não publica e-mail deste gabinete. ${v.url?`<a href="${esc(v.url)}" target="_blank" rel="noopener">Use o formulário “Fale com o vereador” ↗</a>`:''}`);};
+        +(v.email?'':`${v.tel?'<br>':''}A Câmara não publica e-mail deste gabinete. ${v.url?`<a href="${url(v.url)}" target="_blank" rel="noopener">Use o formulário “Fale com o vereador” ↗</a>`:''}`);};
     const fill=()=>{ta.value=msg(+sel.value);links()};
     sel.addEventListener('change',fill); ta.addEventListener('input',links); fill();
   }
@@ -235,7 +238,7 @@ function card(v){
        <div class="vote num"><div><b>${nf(v.vs)}</b><span>vezes sim</span></div><div class="n"><b>${nf(v.vn+v.va)}</b><span>${v.va?'não ou abstenção':'vezes não'}</span></div></div>
        ${/^presidente/i.test(v.mesa)?'<p class="note">Quem preside a sessão normalmente só vota para desempatar.</p>':''}
        ${v.naos.length?`<p style="margin:10px 0 0"><button class="lnk" type="button" data-n="${i}">Ver quando não votou sim →</button></p>`:''}</div>`:''}
-     ${v.url?`<p class="foot"><a href="${esc(v.url)}" target="_blank" rel="noopener">Ficha oficial na Câmara ↗</a>${v.email?` · <a href="mailto:${esc(v.email)}">${esc(v.email)}</a>`:''}</p>`:''}
+     ${v.url?`<p class="foot"><a href="${url(v.url)}" target="_blank" rel="noopener">Ficha oficial na Câmara ↗</a>${v.email?` · <a href="mailto:${mail(v.email)}">${esc(v.email)}</a>`:''}</p>`:''}
    </div></article>`;
 }
 const ORD={nome:(a,b)=>a.ap.localeCompare(b.ap,'pt'),faltas:(a,b)=>(b.F-a.F),l:(a,b)=>b.cat.l-a.cat.l,h:(a,b)=>b.cat.h-a.cat.h,b:(a,b)=>b.cat.b-a.cat.b,nao:(a,b)=>(b.vn+b.va)-(a.vn+a.va)};
@@ -255,5 +258,5 @@ render();
 /* ---------- método ---------- */
 $('m-pres').textContent=temVot?`Lida do relatório do painel eletrônico de cada sessão (${D.sess} sessões até ${dt(D.ult)}). Conta como presente quem aparece como “Presente” ou votou em alguma votação da sessão, porque o relatório marca “---” até para quem votou.${D.semreg.length?` ${D.semreg.length} sessões ficaram de fora por não terem relatório legível.`:''}`:'Ainda sem relatórios de sessão coletados.';
 $('m-vot').textContent=temVot?`Só entram votações nominais do painel eletrônico: ${nf(D.nvot)} desde a posse. Em ${nf(D.unan)} delas, todos os que votaram escolheram a mesma opção.`:'Ainda sem votações coletadas.';
-$('m-sal').innerHTML=D.sal&&D.sal.v?`Subsídio de R$ ${D.sal.v.toLocaleString('pt-BR',{minimumFractionDigits:2})} por mês para a legislatura 2025–2028, aprovado pela Câmara em outubro de 2022 (<a href="${esc(D.sal.u)}" target="_blank" rel="noopener">${esc(D.sal.fonte)}</a>). O contador é uma estimativa: ${cad} salários brutos por mês desde a posse, sem 13º nem férias.`:'Valor ainda não confirmado.';
+$('m-sal').innerHTML=D.sal&&D.sal.v?`Subsídio de R$ ${D.sal.v.toLocaleString('pt-BR',{minimumFractionDigits:2})} por mês para a legislatura 2025–2028, aprovado pela Câmara em outubro de 2022 (<a href="${url(D.sal.u)}" target="_blank" rel="noopener">${esc(D.sal.fonte)}</a>). O contador é uma estimativa: ${cad} salários brutos por mês desde a posse, sem 13º nem férias.`:'Valor ainda não confirmado.';
 })();
