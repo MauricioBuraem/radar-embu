@@ -135,6 +135,9 @@ const repHTML=g=>`<button class="rp" type="button" data-g="${g.i}"><span class="
   <span class="rr">${esc(g.r)}</span><span class="rb">${esc(g.b||'Embu das Artes')}</span>
   <span class="rm"><span class="lab k-b" style="background:var(--b-t);color:var(--b)">${esc((TH[g.th]||['Pedido'])[0])}</span><span>${g.a} ${g.a===1?'vereador pediu':'vereadores pediram'}</span><span>·</span><span>de ${mesAno(g.d0)} a ${mesAno(g.d1)}</span></span><span class="go">Ver os pedidos e cobrar →</span></button>`;
 const SITE=/^https?:/.test(location.protocol)?location.origin+location.pathname:'https://radarembu.org/';
+/* A Câmara não publica WhatsApp dos gabinetes: a cobrança por WhatsApp vai para a Central de Notícias, que leva ao vereador. */
+const CENTRAL_WA='5511916492207';
+const waCentral=(ap,txt)=>`Olá, Central de Notícias! Sou morador de Embu das Artes e peço que vocês cobrem ${ap} sobre este problema. Segue a mensagem:\n\n${txt}`;
 function openRep(g){
   openSheet('b',(TH[g.th]||['','pin'])[1],g.r,`${(TH[g.th]||['Pedido'])[0]} · pedido ${g.n} vezes${g.b?' · '+g.b:''}`);
   const cnt=new Map(); g.items.forEach(it=>it[6].forEach(a=>cnt.set(a,(cnt.get(a)||0)+1)));
@@ -151,8 +154,8 @@ function openRep(g){
     const sel=$('cob-v'), ta=$('cob-t');
     const links=()=>{const v=V[+sel.value], t=encodeURIComponent(ta.value);
       $('cob-a').innerHTML=(v.email?`<a class="btn br" href="mailto:${esc(v.email)}?subject=${encodeURIComponent(g.r+': o problema continua')}&body=${t}">Enviar por e-mail</a>`:'')
-        +`<a class="btn wa" href="https://wa.me/?text=${t}" target="_blank" rel="noopener">Mandar no WhatsApp</a><button class="btn gh" type="button" id="cob-cp">Copiar mensagem</button>`;
-      $('cob-c').innerHTML=[v.email?`E-mail oficial: <b>${esc(v.email)}</b>`:'',v.tel?`Telefone do gabinete: <b>${esc(v.tel)}</b>`:''].filter(Boolean).join(' · ')
+        +`<a class="btn wa" href="https://wa.me/${CENTRAL_WA}?text=${encodeURIComponent(waCentral(v.ap,ta.value))}" target="_blank" rel="noopener">Pedir cobrança no WhatsApp</a><button class="btn gh" type="button" id="cob-cp">Copiar mensagem</button>`;
+      $('cob-c').innerHTML=`O WhatsApp vai para a <b>Central de Notícias</b> (11 91649-2207), que leva a cobrança a ${esc(v.ap)}.<br>`+[v.email?`E-mail oficial: <b>${esc(v.email)}</b>`:'',v.tel?`Telefone do gabinete: <b>${esc(v.tel)}</b>`:''].filter(Boolean).join(' · ')
         +(v.email?'':`${v.tel?'<br>':''}A Câmara não publica e-mail deste gabinete. ${v.url?`<a href="${esc(v.url)}" target="_blank" rel="noopener">Use o formulário “Fale com o vereador” ↗</a>`:''}`);
       $('cob-cp').onclick=async e=>{try{await navigator.clipboard.writeText(ta.value);e.target.textContent='Copiado ✓'}catch(_){ta.focus();ta.select();e.target.textContent='Selecionado: copie'}}};
     const fill=()=>{ta.value=msg(+sel.value);links()};
