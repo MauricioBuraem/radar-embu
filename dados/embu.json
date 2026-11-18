@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-18T10:32-03:00",
+ "gerado_em": "2026-11-18T14:18-03:00",
  "fonte": "https://nopapercloud.cmembu.sp.gov.br/spl/",
  "posse": "2025-01-01",
  "salario": {
@@ -11,13 +11,13 @@
  "temas": {
   "asf": 260,
   "agu": 97,
-  "laz": 219,
+  "laz": 220,
   "lim": 51,
   "luz": 87,
-  "seg": 38,
-  "sau": 187,
+  "seg": 39,
+  "sau": 189,
   "bus": 45,
-  "edu": 104,
+  "edu": 105,
   "tra": 69,
   "cal": 25
  },
@@ -821,7 +821,7 @@
    "chave": "diego paixao",
    "em_exercicio": true,
    "cat": {
-    "b": 130,
+    "b": 135,
     "h": 10,
     "c": 20,
     "l": 30,
@@ -1690,7 +1690,7 @@
    "chave": "rochinha",
    "em_exercicio": true,
    "cat": {
-    "b": 330,
+    "b": 334,
     "h": 43,
     "o": 8,
     "c": 1,
@@ -39036,8 +39036,8 @@
     "Abidan Henrique da Silva"
    ],
    "data": "2026-11-16",
-   "fase": "Emissão de Manifestação",
-   "setor": "Procuradoria Legislativa",
+   "fase": "Ciência e Encaminhamento",
+   "setor": "Diretoria Geral",
    "situacao": "Tramitando",
    "codigo": "Emenda 8/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34353",
@@ -39061,8 +39061,8 @@
     "Abidan Henrique da Silva"
    ],
    "data": "2026-11-16",
-   "fase": "Emissão de Manifestação",
-   "setor": "Procuradoria Legislativa",
+   "fase": "Ciência e Encaminhamento",
+   "setor": "Diretoria Geral",
    "situacao": "Tramitando",
    "codigo": "Emenda 7/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34354",
@@ -39086,8 +39086,8 @@
     "Abidan Henrique da Silva"
    ],
    "data": "2026-11-16",
-   "fase": "Emissão de Manifestação",
-   "setor": "Procuradoria Legislativa",
+   "fase": "Ciência e Encaminhamento",
+   "setor": "Diretoria Geral",
    "situacao": "Tramitando",
    "codigo": "Emenda 6/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34355",
@@ -39111,8 +39111,8 @@
     "Abidan Henrique da Silva"
    ],
    "data": "2026-11-16",
-   "fase": "Emissão de Manifestação",
-   "setor": "Procuradoria Legislativa",
+   "fase": "Ciência e Encaminhamento",
+   "setor": "Diretoria Geral",
    "situacao": "Tramitando",
    "codigo": "Emenda 5/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34351",
@@ -39136,8 +39136,8 @@
     "Abidan Henrique da Silva"
    ],
    "data": "2026-11-16",
-   "fase": "Emissão de Manifestação",
-   "setor": "Procuradoria Legislativa",
+   "fase": "Ciência e Encaminhamento",
+   "setor": "Diretoria Geral",
    "situacao": "Tramitando",
    "codigo": "Emenda 4/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34352",
@@ -39161,8 +39161,8 @@
     "Abidan Henrique da Silva"
    ],
    "data": "2026-11-16",
-   "fase": "Emissão de Manifestação",
-   "setor": "Procuradoria Legislativa",
+   "fase": "Ciência e Encaminhamento",
+   "setor": "Diretoria Geral",
    "situacao": "Tramitando",
    "codigo": "Emenda 3/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34343",
@@ -39230,6 +39230,244 @@
     "88",
     "91",
     "71"
+   ]
+  },
+  {
+   "id": "34405",
+   "processo": "2529",
+   "tipo": "Indicação",
+   "numero": "690",
+   "ano": "2026",
+   "ementa": "O Vereador Diego Paixão, no uso das atribuições que lhe confere o artigo 133 do regimento interno INDICA ao Chefe do Poder Executivo Municipal a Instalação de Câmeras de Segurança 24 Horas (TV-MONITORAMENTO) em toda região Central de Embu das Artes, bairro Centro - Embu das Artes.",
+   "protocolo": "2693",
+   "autores": [
+    "Diego Paixão"
+   ],
+   "data": "2026-11-18",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 690/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34405",
+   "grupo": "b",
+   "tema": "seg",
+   "ruas": [],
+   "bairros": [
+    "Centro"
+   ],
+   "vereadores": [
+    "88"
+   ]
+  },
+  {
+   "id": "34404",
+   "processo": "2528",
+   "tipo": "Indicação",
+   "numero": "689",
+   "ano": "2026",
+   "ementa": "O Vereador Diego Paixão, no uso das atribuições que lhe confere o artigo 133 do regimento interno INDICA ao Chefe do Poder Executivo Municipal a reforma geral da Base da Polícia Comunitária Militar localizada na Rua Largo 21 de Abril, no 30 (Praça das Artes), Centro, neste município.",
+   "protocolo": "2692",
+   "autores": [
+    "Diego Paixão"
+   ],
+   "data": "2026-11-18",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 689/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34404",
+   "grupo": "b",
+   "tema": "laz",
+   "ruas": [
+    "Rua Largo 21 de Abril",
+    "Praça das Artes"
+   ],
+   "bairros": [],
+   "vereadores": [
+    "88"
+   ]
+  },
+  {
+   "id": "34403",
+   "processo": "2527",
+   "tipo": "Indicação",
+   "numero": "688",
+   "ano": "2026",
+   "ementa": "O Vereador Diego Paixão, no uso das atribuições que lhe confere o artigo 133 do regimento interno INDICA ao Chefe do Poder Executivo Municipal a reforma geral no CAPS II AD, localizado em Rua Domingos de Paschoal, 203 - Centro, Embu das Artes.",
+   "protocolo": "2691",
+   "autores": [
+    "Diego Paixão"
+   ],
+   "data": "2026-11-18",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 688/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34403",
+   "grupo": "b",
+   "tema": "",
+   "ruas": [
+    "Rua Domingos de Paschoal"
+   ],
+   "bairros": [],
+   "vereadores": [
+    "88"
+   ]
+  },
+  {
+   "id": "34402",
+   "processo": "2526",
+   "tipo": "Indicação",
+   "numero": "687",
+   "ano": "2026",
+   "ementa": "O Vereador Diego Paixão, no uso das atribuições que lhe confere o artigo 133 do regimento interno INDICA ao Chefe do Poder Executivo Municipal a reforma geral na UNIDADE DE SAÚDE (UBS) Centro - localizada na Avenida Elias Yazbek no 2500 – Bairro Centro, neste município.",
+   "protocolo": "2690",
+   "autores": [
+    "Diego Paixão"
+   ],
+   "data": "2026-11-18",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 687/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34402",
+   "grupo": "b",
+   "tema": "sau",
+   "ruas": [
+    "Avenida Elias Yazbek"
+   ],
+   "bairros": [
+    "Centro"
+   ],
+   "vereadores": [
+    "88"
+   ]
+  },
+  {
+   "id": "34341",
+   "processo": "2525",
+   "tipo": "Indicação",
+   "numero": "686",
+   "ano": "2026",
+   "ementa": "“O Vereador Reginaldo Rocha Santana (Rochinha), no uso de suas atribuições previstas no artigo 133 do Regimento Interno desta Casa Legislativa, INDICA ao Excelentíssimo Senhor Prefeito de Embu das Artes que solicite aos setores competentes a realização de estudos visando a assegurar aos servidores públicos municipais, em efetivo exercício nas unidades escolares da rede pública municipal de ensino do Município de Embu das Artes, o acesso à alimentação escolar nos mesmos turnos e horários em que esta for fornecida aos alunos.”",
+   "protocolo": "2689",
+   "autores": [
+    "Rochinha"
+   ],
+   "data": "2026-11-18",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 686/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34341",
+   "grupo": "b",
+   "tema": "edu",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "83"
+   ]
+  },
+  {
+   "id": "34345",
+   "processo": "2524",
+   "tipo": "Indicação",
+   "numero": "685",
+   "ano": "2026",
+   "ementa": "“O Vereador Reginaldo Rocha Santana (Rochinha), no uso de suas atribuições previstas no artigo 133 do Regimento Interno desta Casa Legislativa, INDICA ao Excelentíssimo Senhor Prefeito de Embu das Artes que solicite aos setores competentes a realização de estudos visando à instituição, no âmbito do Município de Embu das Artes, do Centro Municipal de Referência para Atendimento às Crianças e Adolescentes, Vítimas, Testemunhas ou Expostos à Violência Doméstica e Familiar, destinado à promoção do atendimento integrado, especializado, humanizado e continuado..”",
+   "protocolo": "2688",
+   "autores": [
+    "Rochinha"
+   ],
+   "data": "2026-11-18",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 685/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34345",
+   "grupo": "b",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "83"
+   ]
+  },
+  {
+   "id": "34347",
+   "processo": "2523",
+   "tipo": "Indicação",
+   "numero": "684",
+   "ano": "2026",
+   "ementa": "“O Vereador Reginaldo Rocha Santana (Rochinha), no uso de suas atribuições previstas no artigo 133 do Regimento Interno desta Casa Legislativa, INDICA ao Excelentíssimo Senhor Prefeito de Embu das Artes que solicite aos setores competentes a realização de estudos visando à disponibilização de Denúncia Assistida à Pessoa Idosa nos estabelecimentos de acesso ao público, destinada a facilitar a comunicação de situações de violação de seus direitos.”",
+   "protocolo": "2687",
+   "autores": [
+    "Rochinha"
+   ],
+   "data": "2026-11-18",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 684/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34347",
+   "grupo": "b",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "83"
+   ]
+  },
+  {
+   "id": "34349",
+   "processo": "2522",
+   "tipo": "Indicação",
+   "numero": "683",
+   "ano": "2026",
+   "ementa": "“O Vereador Reginaldo Rocha Santana (Rochinha), no uso de suas atribuições previstas no artigo 133 do Regimento Interno desta Casa Legislativa, INDICA ao Excelentíssimo Senhor Prefeito de Embu das Artes que solicite aos setores competentes a realização de estudos visando à instituição do Programa Municipal de Fornecimento de Cadeiras de Rodas ou de Banho, com o objetivo de garantir a distribuição gratuita de cadeiras de rodas manuais ou de banho para pessoas com deficiência ou mobilidade reduzida permanente ou temporária, residentes no Município de Embu das Artes e em situação de vulnerabilidade socioeconômica.”",
+   "protocolo": "2686",
+   "autores": [
+    "Rochinha"
+   ],
+   "data": "2026-11-18",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 683/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34349",
+   "grupo": "b",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "83"
+   ]
+  },
+  {
+   "id": "34401",
+   "processo": "2521",
+   "tipo": "Indicação",
+   "numero": "682",
+   "ano": "2026",
+   "ementa": "O Vereador Diego Paixão, no uso das atribuições que lhe confere o artigo 133 do regimento interno INDICA ao Chefe do Poder Executivo Municipal a Implantação de Cobertura de Toldo, para abrigo dos usuários do lado externo da Unidade Básica de Saúde (UBS) - CENTRO, (desde o portão de entrada, até a portaria principal do prédio), localizada na Avenida Elias Yazbek, N°2500, neste município.",
+   "protocolo": "2685",
+   "autores": [
+    "Diego Paixão"
+   ],
+   "data": "2026-11-18",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 682/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34401",
+   "grupo": "b",
+   "tema": "sau",
+   "ruas": [
+    "Avenida Elias Yazbek"
+   ],
+   "bairros": [],
+   "vereadores": [
+    "88"
    ]
   },
   {
@@ -91012,14 +91250,14 @@
   }
  ],
  "catot": {
-  "b": 1491,
+  "b": 1500,
   "o": 150,
   "h": 321,
   "c": 36,
   "l": 268
  },
  "tipos": {
-  "Indicação": 1491,
+  "Indicação": 1500,
   "Moção": 186,
   "Requerimento": 36,
   "Projeto de Lei": 299,
@@ -91333,6 +91571,10 @@
    4
   ],
   [
+   "Centro",
+   4
+  ],
+  [
    "Estância Embuarama",
    4
   ],
@@ -91346,10 +91588,6 @@
   ],
   [
    "Jardim Santa Bárbara",
-   3
-  ],
-  [
-   "Jardim Itatiaia",
    3
   ]
  ],
@@ -91507,6 +91745,21 @@
     "30176",
     "30179",
     "30141"
+   ]
+  },
+  {
+   "rua": "Avenida Elias Yazbek",
+   "bairro": "Centro",
+   "tema": "sau",
+   "n": 4,
+   "n_vereadores": 2,
+   "de": "2025-02-26",
+   "ate": "2026-11-18",
+   "ids": [
+    "34402",
+    "34401",
+    "28478",
+    "28475"
    ]
   },
   {
