@@ -48,7 +48,7 @@ roda num computador no Brasil: `robo/atualizar.ps1` coleta, gera o site, faz com
 O push dispara `.github/workflows/atualizar.yml`, que só publica `site/` no GitHub Pages.
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File robo\agendar.ps1   # agenda 04:17 e 14:17 no Agendador de Tarefas
+powershell -ExecutionPolicy Bypass -File robo\agendar.ps1   # agenda 12:00 e 18:00 (falhou: nova tentativa a cada 30 min, até 10x)
 powershell -ExecutionPolicy Bypass -File robo\atualizar.ps1 # roda agora
 ```
 

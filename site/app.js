@@ -154,10 +154,9 @@ function openRep(g){
     const sel=$('cob-v'), ta=$('cob-t');
     const links=()=>{const v=V[+sel.value], t=encodeURIComponent(ta.value);
       $('cob-a').innerHTML=(v.email?`<a class="btn br" href="mailto:${esc(v.email)}?subject=${encodeURIComponent(g.r+': o problema continua')}&body=${t}">Enviar por e-mail</a>`:'')
-        +`<a class="btn wa" href="https://wa.me/${CENTRAL_WA}?text=${encodeURIComponent(waCentral(v.ap,ta.value))}" target="_blank" rel="noopener">Pedir cobrança no WhatsApp</a><button class="btn gh" type="button" id="cob-cp">Copiar mensagem</button>`;
+        +`<a class="btn wa" href="https://wa.me/${CENTRAL_WA}?text=${encodeURIComponent(waCentral(v.ap,ta.value))}" target="_blank" rel="noopener">Pedir cobrança no WhatsApp</a>`;
       $('cob-c').innerHTML=`O WhatsApp vai para a <b>Central de Notícias</b> (11 91649-2207), que leva a cobrança a ${esc(v.ap)}.<br>`+[v.email?`E-mail oficial: <b>${esc(v.email)}</b>`:'',v.tel?`Telefone do gabinete: <b>${esc(v.tel)}</b>`:''].filter(Boolean).join(' · ')
-        +(v.email?'':`${v.tel?'<br>':''}A Câmara não publica e-mail deste gabinete. ${v.url?`<a href="${esc(v.url)}" target="_blank" rel="noopener">Use o formulário “Fale com o vereador” ↗</a>`:''}`);
-      $('cob-cp').onclick=async e=>{try{await navigator.clipboard.writeText(ta.value);e.target.textContent='Copiado ✓'}catch(_){ta.focus();ta.select();e.target.textContent='Selecionado: copie'}}};
+        +(v.email?'':`${v.tel?'<br>':''}A Câmara não publica e-mail deste gabinete. ${v.url?`<a href="${esc(v.url)}" target="_blank" rel="noopener">Use o formulário “Fale com o vereador” ↗</a>`:''}`);};
     const fill=()=>{ta.value=msg(+sel.value);links()};
     sel.addEventListener('change',fill); ta.addEventListener('input',links); fill();
   }

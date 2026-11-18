@@ -5,14 +5,15 @@ $raiz = Split-Path -Parent $PSScriptRoot
 Set-Location $raiz
 $env:Path = [Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [Environment]::GetEnvironmentVariable("Path","User")
 $env:PYTHONIOENCODING = "utf-8"
+$env:PYTHONUNBUFFERED = "1"   # log linha a linha: se travar, dá para ver onde
 $log = Join-Path $raiz "dados\cache\robo.log"
 New-Item -ItemType Directory -Force (Split-Path $log) | Out-Null
 
 function Registrar($msg) { "$(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')  $msg" | Out-File $log -Append -Encoding utf8 }
 function Rodar($exe, [string[]]$args_) {
     $ErrorActionPreference = "Continue"   # git escreve progresso no stderr
-    $saida = & $exe @args_ 2>&1 | Out-String
-    $saida | Out-File $log -Append -Encoding utf8
+    Registrar "> $(Split-Path -Leaf $exe) $($args_ -join ' ')"
+    & $exe @args_ 2>&1 | ForEach-Object { "    $_" | Out-File $log -Append -Encoding utf8 }
     if ($LASTEXITCODE -ne 0) { throw "$exe $($args_ -join ' ') saiu com código $LASTEXITCODE" }
 }
 
@@ -31,6 +32,7 @@ try {
     } else {
         Registrar "nada mudou"
     }
+    Registrar "fim"
 } catch {
     Registrar "ERRO: $_"
     exit 1
