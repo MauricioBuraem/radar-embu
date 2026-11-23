@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-22T18:01-03:00",
+ "gerado_em": "2026-11-23T18:01-03:00",
  "fonte": "https://nopapercloud.cmembu.sp.gov.br/spl/",
  "posse": "2025-01-01",
  "salario": {
@@ -10,7 +10,7 @@
  "cadeiras": 21,
  "temas": {
   "asf": 260,
-  "agu": 97,
+  "agu": 98,
   "laz": 220,
   "lim": 51,
   "luz": 87,
@@ -1695,8 +1695,8 @@
    "chave": "rochinha",
    "em_exercicio": true,
    "cat": {
-    "b": 334,
-    "h": 43,
+    "b": 335,
+    "h": 44,
     "o": 8,
     "c": 1,
     "l": 19
@@ -39253,6 +39253,35 @@
    ]
   },
   {
+   "id": "34426",
+   "processo": "2554",
+   "tipo": "Indicação",
+   "numero": "695",
+   "ano": "2026",
+   "ementa": "“O Vereador Reginaldo Rocha Santana (Rochinha), no uso de suas atribuições previstas no artigo 132 do Regimento Interno desta Casa Legislativa, INDICA ao Excelentíssimo Senhor Prefeito de Embu das Artes que solicite aos setores competentes a realização de vistoria técnica na Rua Ranulfo Lira, Jardim Arabutan, com o objetivo de identificar as causas dos alagamentos recorrentes na via e, a partir do diagnóstico, adotar as providências necessárias para solucionar o problema.”",
+   "protocolo": "2718",
+   "autores": [
+    "Rochinha"
+   ],
+   "data": "2026-11-23",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 695/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34426",
+   "grupo": "b",
+   "tema": "agu",
+   "ruas": [
+    "Rua Ranulfo Lira"
+   ],
+   "bairros": [
+    "Jardim Arabutan"
+   ],
+   "vereadores": [
+    "83"
+   ]
+  },
+  {
    "id": "34421",
    "processo": "2542",
    "tipo": "Indicação",
@@ -58583,6 +58612,31 @@
    ]
   },
   {
+   "id": "34429",
+   "processo": "2553",
+   "tipo": "Moção",
+   "numero": "90",
+   "ano": "2026",
+   "ementa": "“ O Vereador Reginaldo Rocha Santana (Rochinha), no uso das atribuições legislativas, apresenta ao egrégio Plenário a Moção de Pesar pelo falecimento do Senhor Pedro Sebastião da Silva.”",
+   "protocolo": "2717",
+   "autores": [
+    "Rochinha"
+   ],
+   "data": "2026-11-23",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Moção 90/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34429",
+   "grupo": "h",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "83"
+   ]
+  },
+  {
    "id": "34413",
    "processo": "2536",
    "tipo": "Moção",
@@ -60895,8 +60949,8 @@
     "Gilson Oliveira"
    ],
    "data": "2026-11-18",
-   "fase": "Ciência e Encaminhamento",
-   "setor": "Diretoria Geral",
+   "fase": "Emissão de Manifestação",
+   "setor": "Procuradoria Legislativa",
    "situacao": "Tramitando",
    "codigo": "Projeto de Decreto Legislativo 60/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34400",
@@ -60920,8 +60974,8 @@
     "Rochinha"
    ],
    "data": "2026-11-17",
-   "fase": "Ciência e Encaminhamento",
-   "setor": "Diretoria Geral",
+   "fase": "Emissão de Manifestação",
+   "setor": "Procuradoria Legislativa",
    "situacao": "Tramitando",
    "codigo": "Projeto de Decreto Legislativo 59/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34392",
@@ -60945,8 +60999,8 @@
     "Rochinha"
    ],
    "data": "2026-11-17",
-   "fase": "Ciência e Encaminhamento",
-   "setor": "Diretoria Geral",
+   "fase": "Emissão de Manifestação",
+   "setor": "Procuradoria Legislativa",
    "situacao": "Tramitando",
    "codigo": "Projeto de Decreto Legislativo 58/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34391",
@@ -62437,8 +62491,8 @@
     "Vanessa Silva"
    ],
    "data": "2026-11-17",
-   "fase": "Emissão de Manifestação",
-   "setor": "Procuradoria Legislativa",
+   "fase": "Reunião da Comissão",
+   "setor": "Diretoria de Serviços Legislativos",
    "situacao": "Tramitando",
    "codigo": "Projeto de Lei 159/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34389",
@@ -62462,8 +62516,8 @@
     "Bulhões do Embu"
    ],
    "data": "2026-11-11",
-   "fase": "Emissão de Manifestação",
-   "setor": "Procuradoria Legislativa",
+   "fase": "Reunião da Comissão",
+   "setor": "Diretoria de Serviços Legislativos",
    "situacao": "Tramitando",
    "codigo": "Projeto de Lei 158/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=33958",
@@ -66436,8 +66490,8 @@
     "Hugo Prado"
    ],
    "data": "2026-11-17",
-   "fase": "Emissão de Manifestação",
-   "setor": "Procuradoria Legislativa",
+   "fase": "Reunião da Comissão",
+   "setor": "Diretoria de Serviços Legislativos",
    "situacao": "Tramitando",
    "codigo": "Projeto de Lei Complementar 10/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34395",
@@ -66459,8 +66513,8 @@
     "Hugo Prado"
    ],
    "data": "2026-11-17",
-   "fase": "Emissão de Manifestação",
-   "setor": "Procuradoria Legislativa",
+   "fase": "Reunião da Comissão",
+   "setor": "Diretoria de Serviços Legislativos",
    "situacao": "Tramitando",
    "codigo": "Projeto de Lei Complementar 9/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34394",
@@ -91934,15 +91988,15 @@
   }
  ],
  "catot": {
-  "b": 1504,
+  "b": 1505,
   "o": 152,
-  "h": 321,
+  "h": 322,
   "c": 36,
   "l": 268
  },
  "tipos": {
-  "Indicação": 1504,
-  "Moção": 188,
+  "Indicação": 1505,
+  "Moção": 189,
   "Requerimento": 36,
   "Projeto de Lei": 299,
   "Projeto de Lei Complementar": 37,
@@ -92211,6 +92265,10 @@
    5
   ],
   [
+   "Jardim Arabutan",
+   5
+  ],
+  [
    "Conjunto Habitacional Fama",
    5
   ],
@@ -92240,10 +92298,6 @@
   ],
   [
    "Jardim Presidente Kennedy",
-   4
-  ],
-  [
-   "Jardim Arabutan",
    4
   ],
   [
