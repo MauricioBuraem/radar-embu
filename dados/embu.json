@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-23T18:01-03:00",
+ "gerado_em": "2026-11-25T12:01-03:00",
  "fonte": "https://nopapercloud.cmembu.sp.gov.br/spl/",
  "posse": "2025-01-01",
  "salario": {
@@ -9,16 +9,16 @@
  },
  "cadeiras": 21,
  "temas": {
-  "asf": 260,
-  "agu": 98,
-  "laz": 220,
+  "asf": 262,
+  "agu": 99,
+  "laz": 221,
   "lim": 51,
   "luz": 87,
-  "seg": 39,
+  "seg": 40,
   "sau": 190,
   "bus": 45,
   "edu": 106,
-  "tra": 69,
+  "tra": 71,
   "cal": 26
  },
  "vereadores": [
@@ -39,14 +39,14 @@
    "em_exercicio": true,
    "cat": {
     "b": 127,
-    "h": 35,
+    "h": 36,
     "o": 28,
     "c": 19,
     "l": 35
    },
-   "P": 63,
+   "P": 64,
    "F": 6,
-   "sessoes": 69,
+   "sessoes": 70,
    "sim": 78,
    "nao": 11,
    "abst": 0,
@@ -131,11 +131,11 @@
     "l": 36,
     "o": 39
    },
-   "P": 62,
+   "P": 63,
    "F": 5,
-   "sessoes": 67,
-   "sim": 308,
-   "nao": 48,
+   "sessoes": 68,
+   "sim": 314,
+   "nao": 53,
    "abst": 6,
    "outros_votos": {},
    "naos": [
@@ -350,6 +350,31 @@
      "voto": "abstencao"
     },
     {
+     "data": "2025-04-16",
+     "titulo": "REQUERIMENTO DE URGÊNCIA ESPECIAL AO PROJETO DE LEI COMPLEMENTAR Nº. 05/2025",
+     "voto": "nao"
+    },
+    {
+     "data": "2025-04-16",
+     "titulo": "REQUERIMENTO DE URGÊNCIA ESPECIAL AO PROJETO DE LEI COMPLEMENTAR Nº. 06/2025",
+     "voto": "nao"
+    },
+    {
+     "data": "2025-04-16",
+     "titulo": "REQUERIMENTO DE URGÊNCIA ESPECIAL AO PROJETO DE LEI 51/2025",
+     "voto": "nao"
+    },
+    {
+     "data": "2025-04-16",
+     "titulo": "PROJETO DE LEI COMPLEMENTAR Nº 06/2025 DE AUTORIA DO PREFEITO HUGO PRADO \"Altera a estrutura organizacional e administrativa da Prefeitura Municipal da Estância Turística de Embu das Artes e dá outras providências.\"",
+     "voto": "nao"
+    },
+    {
+     "data": "2025-04-16",
+     "titulo": "PROJETO DE LEI Nº 51/2025 DE AUTORIA DO PREFEITO HUGO PRADO \"Dispõe sobre alteração da Lei nº 2365 de 17 de dezembro de 2008 e dá outras providências.\"",
+     "voto": "nao"
+    },
+    {
      "data": "2025-04-02",
      "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3858/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao autógrafo nº3858 referente ao Projeto de Lei 22/2025 que teria como matéria \"Autoriza a criação da escola de formação de Educadores da Rede de ensino Municipal de Embu das Artes e dá outras providências\", de autoria do eminente Vereador Abidan Henrique da Silva.",
      "voto": "nao"
@@ -457,9 +482,9 @@
    "chave": "aline santos",
    "em_exercicio": true,
    "cat": {
-    "b": 114,
+    "b": 115,
     "o": 23,
-    "h": 25,
+    "h": 26,
     "c": 1,
     "l": 11
    },
@@ -559,8 +584,8 @@
    "chave": "betinho souza",
    "em_exercicio": true,
    "cat": {
-    "b": 55,
-    "h": 20,
+    "b": 58,
+    "h": 22,
     "l": 5,
     "o": 3
    },
@@ -706,10 +731,10 @@
     "l": 22,
     "o": 5
    },
-   "P": 68,
+   "P": 69,
    "F": 1,
-   "sessoes": 69,
-   "sim": 603,
+   "sessoes": 70,
+   "sim": 613,
    "nao": 13,
    "abst": 0,
    "outros_votos": {},
@@ -797,7 +822,7 @@
    "chave": "bulhoes do embu",
    "em_exercicio": true,
    "cat": {
-    "b": 16,
+    "b": 17,
     "h": 7,
     "l": 1
    },
@@ -832,14 +857,19 @@
     "l": 30,
     "o": 23
    },
-   "P": 68,
+   "P": 69,
    "F": 0,
-   "sessoes": 68,
-   "sim": 755,
-   "nao": 12,
+   "sessoes": 69,
+   "sim": 764,
+   "nao": 13,
    "abst": 0,
    "outros_votos": {},
    "naos": [
+    {
+     "data": "2025-04-16",
+     "titulo": "PROJETO DE LEI COMPLEMENTAR Nº 06/2025 DE AUTORIA DO PREFEITO HUGO PRADO \"Altera a estrutura organizacional e administrativa da Prefeitura Municipal da Estância Turística de Embu das Artes e dá outras providências.\"",
+     "voto": "nao"
+    },
     {
      "data": "2025-04-02",
      "titulo": "VETO TOTAL AO AUTÓGRAFO Nº. 3858/2025 DE AUTORIA DO PREFEITO HUGO PRADO Veto Total ao autógrafo nº3858 referente ao Projeto de Lei 22/2025 que teria como matéria \"Autoriza a criação da escola de formação de Educadores da Rede de ensino Municipal de Embu das Artes e dá outras providências\", de autoria do eminente Vereador Abidan Henrique da Silva.",
@@ -924,10 +954,10 @@
     "l": 32,
     "o": 22
    },
-   "P": 57,
+   "P": 58,
    "F": 1,
-   "sessoes": 58,
-   "sim": 639,
+   "sessoes": 59,
+   "sim": 651,
    "nao": 13,
    "abst": 0,
    "outros_votos": {},
@@ -1020,10 +1050,10 @@
     "l": 3,
     "o": 2
    },
-   "P": 62,
+   "P": 63,
    "F": 0,
-   "sessoes": 62,
-   "sim": 724,
+   "sessoes": 63,
+   "sim": 735,
    "nao": 18,
    "abst": 0,
    "outros_votos": {},
@@ -1136,16 +1166,16 @@
    "chave": "indio silva",
    "em_exercicio": true,
    "cat": {
-    "b": 65,
+    "b": 66,
     "h": 27,
     "o": 23,
     "c": 20,
     "l": 32
    },
-   "P": 69,
+   "P": 70,
    "F": 0,
-   "sessoes": 69,
-   "sim": 751,
+   "sessoes": 70,
+   "sim": 762,
    "nao": 11,
    "abst": 0,
    "outros_votos": {},
@@ -1228,10 +1258,10 @@
     "l": 13,
     "o": 2
    },
-   "P": 53,
+   "P": 54,
    "F": 2,
-   "sessoes": 55,
-   "sim": 549,
+   "sessoes": 56,
+   "sim": 559,
    "nao": 20,
    "abst": 0,
    "outros_votos": {},
@@ -1360,10 +1390,10 @@
     "l": 25,
     "o": 3
    },
-   "P": 65,
+   "P": 66,
    "F": 0,
-   "sessoes": 65,
-   "sim": 694,
+   "sessoes": 66,
+   "sim": 704,
    "nao": 12,
    "abst": 0,
    "outros_votos": {},
@@ -1452,10 +1482,10 @@
     "c": 19,
     "l": 47
    },
-   "P": 64,
+   "P": 65,
    "F": 0,
-   "sessoes": 64,
-   "sim": 721,
+   "sessoes": 65,
+   "sim": 733,
    "nao": 12,
    "abst": 0,
    "outros_votos": {},
@@ -1575,7 +1605,7 @@
    "em_exercicio": true,
    "cat": {
     "b": 37,
-    "o": 2,
+    "o": 6,
     "h": 2
    },
    "P": 15,
@@ -1609,10 +1639,10 @@
     "l": 27,
     "o": 1
    },
-   "P": 35,
+   "P": 36,
    "F": 0,
-   "sessoes": 35,
-   "sim": 293,
+   "sessoes": 36,
+   "sim": 305,
    "nao": 12,
    "abst": 0,
    "outros_votos": {},
@@ -1695,16 +1725,16 @@
    "chave": "rochinha",
    "em_exercicio": true,
    "cat": {
-    "b": 335,
-    "h": 44,
+    "b": 337,
+    "h": 46,
     "o": 8,
     "c": 1,
     "l": 19
    },
-   "P": 63,
+   "P": 64,
    "F": 2,
-   "sessoes": 65,
-   "sim": 707,
+   "sessoes": 66,
+   "sim": 719,
    "nao": 23,
    "abst": 3,
    "outros_votos": {},
@@ -1863,10 +1893,10 @@
     "c": 1,
     "l": 31
    },
-   "P": 64,
+   "P": 65,
    "F": 0,
-   "sessoes": 64,
-   "sim": 734,
+   "sessoes": 65,
+   "sim": 746,
    "nao": 29,
    "abst": 2,
    "outros_votos": {},
@@ -2045,15 +2075,15 @@
    "em_exercicio": true,
    "cat": {
     "b": 81,
-    "h": 37,
+    "h": 38,
     "o": 9,
     "c": 2,
     "l": 40
    },
-   "P": 59,
+   "P": 60,
    "F": 0,
-   "sessoes": 59,
-   "sim": 694,
+   "sessoes": 60,
+   "sim": 706,
    "nao": 30,
    "abst": 4,
    "outros_votos": {},
@@ -2252,10 +2282,10 @@
     "c": 19,
     "l": 23
    },
-   "P": 67,
+   "P": 68,
    "F": 1,
-   "sessoes": 68,
-   "sim": 807,
+   "sessoes": 69,
+   "sim": 819,
    "nao": 12,
    "abst": 0,
    "outros_votos": {},
@@ -2342,10 +2372,10 @@
     "l": 2,
     "h": 1
    },
-   "P": 10,
+   "P": 11,
    "F": 0,
-   "sessoes": 10,
-   "sim": 73,
+   "sessoes": 11,
+   "sim": 85,
    "nao": 18,
    "abst": 0,
    "outros_votos": {},
@@ -2462,10 +2492,10 @@
     "h": 2,
     "l": 2
    },
-   "P": 9,
+   "P": 10,
    "F": 0,
-   "sessoes": 9,
-   "sim": 76,
+   "sessoes": 10,
+   "sim": 86,
    "nao": 25,
    "abst": 1,
    "outros_votos": {},
@@ -2623,10 +2653,10 @@
     "o": 3,
     "l": 3
    },
-   "P": 47,
+   "P": 48,
    "F": 0,
-   "sessoes": 47,
-   "sim": 517,
+   "sessoes": 48,
+   "sim": 529,
    "nao": 33,
    "abst": 0,
    "outros_votos": {},
@@ -2908,11 +2938,11 @@
     "c": 22,
     "l": 30
    },
-   "P": 63,
+   "P": 64,
    "F": 0,
-   "sessoes": 63,
-   "sim": 675,
-   "nao": 52,
+   "sessoes": 64,
+   "sim": 682,
+   "nao": 57,
    "abst": 16,
    "outros_votos": {},
    "naos": [
@@ -3195,6 +3225,31 @@
      "data": "2025-05-07",
      "titulo": "INDICAÇÕES Nº. 426 A 429/2025 E 431, 434, 436, 437 E 438/2025 DE AUTORIA DO VEREADOR DEDÉ Indicação Nº. 426/2025 de autoria dos Vereadores José de Sousa Santos e Ricardo Almeida dos Santos – “Indicam ao Chefe do Poder Executivo Municipal que seja realizado estudos para a implantação de ponto de ônibus (ponto de ônibus com cobertura) no conjunto habitacional FAMA, R. José Salgueiro - Jardim São Lui",
      "voto": "abstencao"
+    },
+    {
+     "data": "2025-04-16",
+     "titulo": "REQUERIMENTO DE URGÊNCIA ESPECIAL AO PROJETO DE LEI COMPLEMENTAR Nº. 05/2025",
+     "voto": "nao"
+    },
+    {
+     "data": "2025-04-16",
+     "titulo": "REQUERIMENTO DE URGÊNCIA ESPECIAL AO PROJETO DE LEI COMPLEMENTAR Nº. 06/2025",
+     "voto": "nao"
+    },
+    {
+     "data": "2025-04-16",
+     "titulo": "REQUERIMENTO DE URGÊNCIA ESPECIAL AO PROJETO DE LEI 51/2025",
+     "voto": "nao"
+    },
+    {
+     "data": "2025-04-16",
+     "titulo": "PROJETO DE LEI COMPLEMENTAR Nº 06/2025 DE AUTORIA DO PREFEITO HUGO PRADO \"Altera a estrutura organizacional e administrativa da Prefeitura Municipal da Estância Turística de Embu das Artes e dá outras providências.\"",
+     "voto": "nao"
+    },
+    {
+     "data": "2025-04-16",
+     "titulo": "PROJETO DE LEI Nº 51/2025 DE AUTORIA DO PREFEITO HUGO PRADO \"Dispõe sobre alteração da Lei nº 2365 de 17 de dezembro de 2008 e dá outras providências.\"",
+     "voto": "nao"
     },
     {
      "data": "2025-04-02",
@@ -39253,6 +39308,201 @@
    ]
   },
   {
+   "id": "34335",
+   "processo": "2596",
+   "tipo": "Indicação",
+   "numero": "702",
+   "ano": "2026",
+   "ementa": "O Vereador Leandro de Souza (Betinho) no uso das Atribuições que lhe conferem o artigo 133 do regimento interno, INDICA ao Chefe do poder executivo municipal, a reforma e manutenção da Quadra do Jardim Santa Emília,localizada na Rua Capri, s/nº, Jardim Santa Emília, Embu das Artes.",
+   "protocolo": "2760",
+   "autores": [
+    "Betinho Souza"
+   ],
+   "data": "2026-11-25",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 702/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34335",
+   "grupo": "b",
+   "tema": "laz",
+   "ruas": [
+    "Rua Capri"
+   ],
+   "bairros": [
+    "Jardim Santa Emília"
+   ],
+   "vereadores": [
+    "75"
+   ]
+  },
+  {
+   "id": "34440",
+   "processo": "2594",
+   "tipo": "Indicação",
+   "numero": "701",
+   "ano": "2026",
+   "ementa": "O Vereador Leandro de Souza (Betinho) no uso das Atribuições que lhe conferem o artigo 132 do regimento interno INDICA ao Chefe do poder executivo municipal a CRIAÇÃO DE UM PROJETO DE LEI que Dispõe sobre a transparência, a identificação das empresas terceirizadas e a disponibilização de informações e documentos referentes às obras e intervenções realizadas pela SABESP e por suas empresas contratadas nas vias e logradouros públicos do Município de Embu das Artes.",
+   "protocolo": "2758",
+   "autores": [
+    "Betinho Souza"
+   ],
+   "data": "2026-11-25",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 701/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34440",
+   "grupo": "b",
+   "tema": "agu",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "75"
+   ]
+  },
+  {
+   "id": "34444",
+   "processo": "2593",
+   "tipo": "Indicação",
+   "numero": "700",
+   "ano": "2026",
+   "ementa": "O Vereador Leandro de Souza (Betinho) no uso das Atribuições que lhe conferem o artigo 132 do regimento interno INDICA ao Chefe do poder executivo municipal que sejam realizados estudos técnicos e administrativos visando à criação de um sistema municipal de integração e compartilhamento voluntário de imagens de câmeras de monitoramento particulares, pertencentes a moradores e comerciantes de Embu das Artes, com a Secretaria Municipal de Segurança Pública.",
+   "protocolo": "2757",
+   "autores": [
+    "Betinho Souza"
+   ],
+   "data": "2026-11-25",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 700/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34444",
+   "grupo": "b",
+   "tema": "seg",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "75"
+   ]
+  },
+  {
+   "id": "34469",
+   "processo": "2592",
+   "tipo": "Indicação",
+   "numero": "699",
+   "ano": "2026",
+   "ementa": "O vereador Orlando Silva de Bulhões (Bulhões do Embu), no uso da atribuição que lhe confere o artigo 133 do Regimento Interno, INDICA ao Chefe do Poder Executivo Municipal que seja efetuado recapeamento asfáltico em toda a extensão da Rua José Linhares - Jardim Santa Emília – Embu das artes – SP.",
+   "protocolo": "2756",
+   "autores": [
+    "Bulhões do Embu",
+    "Índio Silva"
+   ],
+   "data": "2026-11-25",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 699/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34469",
+   "grupo": "b",
+   "tema": "asf",
+   "ruas": [
+    "Rua José Linhares"
+   ],
+   "bairros": [
+    "Jardim Santa Emília"
+   ],
+   "vereadores": [
+    "97",
+    "71"
+   ]
+  },
+  {
+   "id": "34455",
+   "processo": "2591",
+   "tipo": "Indicação",
+   "numero": "698",
+   "ano": "2026",
+   "ementa": "“O Vereador Reginaldo Rocha Santana (Rochinha), no uso de suas atribuições previstas no artigo 132 do Regimento Interno desta Casa Legislativa, INDICA ao Excelentíssimo Senhor Prefeito de Embu das Artes que solicite aos setores competentes a realização de estudos técnicos para a instalação de 3 (três) lombadas na Estrada São José, trecho que abrange os bairros Jardim Jurema, Valo Verde e Vazame, neste Município.”",
+   "protocolo": "2755",
+   "autores": [
+    "Rochinha"
+   ],
+   "data": "2026-11-25",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 698/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34455",
+   "grupo": "b",
+   "tema": "tra",
+   "ruas": [
+    "Estrada São José"
+   ],
+   "bairros": [
+    "Jardim Jurema"
+   ],
+   "vereadores": [
+    "83"
+   ]
+  },
+  {
+   "id": "34449",
+   "processo": "2569",
+   "tipo": "Indicação",
+   "numero": "697",
+   "ano": "2026",
+   "ementa": "INDICA ao Poder Executivo que sejam feitos estudos para que haja uma melhoria do fluxo do trânsito no encontro entre as estradas Constantinopla e São José – Jardim Marina – seja a implantação de sinalização ou de rotatória, com faixas de pedestre e toda a sinalização horizontal e vertical necessária para maior segurança da população.",
+   "protocolo": "2733",
+   "autores": [
+    "Aline Santos"
+   ],
+   "data": "2026-11-24",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 697/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34449",
+   "grupo": "b",
+   "tema": "tra",
+   "ruas": [],
+   "bairros": [
+    "Jardim Marina"
+   ],
+   "vereadores": [
+    "66"
+   ]
+  },
+  {
+   "id": "34439",
+   "processo": "2568",
+   "tipo": "Indicação",
+   "numero": "696",
+   "ano": "2026",
+   "ementa": "“O Vereador Reginaldo Rocha Santana (Rochinha), no uso de suas atribuições previstas no artigo 132 do Regimento Interno desta Casa Legislativa, INDICA ao Excelentíssimo Senhor Prefeito de Embu das Artes que solicite aos setores competentes a conclusão do recapeamento asfáltico na Rua Benjamin Vaz da Luz, nº 15 – Jardim de Lourdes, neste Município.”",
+   "protocolo": "2732",
+   "autores": [
+    "Rochinha"
+   ],
+   "data": "2026-11-24",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Indicação 696/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34439",
+   "grupo": "b",
+   "tema": "asf",
+   "ruas": [
+    "Rua Benjamin Vaz da Luz"
+   ],
+   "bairros": [
+    "Jardim de Lourdes"
+   ],
+   "vereadores": [
+    "83"
+   ]
+  },
+  {
    "id": "34426",
    "processo": "2554",
    "tipo": "Indicação",
@@ -40084,8 +40334,8 @@
     "Diego Paixão"
    ],
    "data": "2026-11-16",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 664/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34333",
@@ -40114,8 +40364,8 @@
     "Bobilel Castilho"
    ],
    "data": "2026-11-16",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 663/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34327",
@@ -40139,8 +40389,8 @@
     "Bobilel Castilho"
    ],
    "data": "2026-11-16",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 662/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34328",
@@ -40245,9 +40495,9 @@
     "Juneca"
    ],
    "data": "2026-11-12",
-   "fase": "Reunião da Comissão",
+   "fase": "Arquivamento do Processo",
    "setor": "Diretoria de Serviços Legislativos",
-   "situacao": "Tramitando",
+   "situacao": "Arquivado",
    "codigo": "Indicação 658/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34309",
    "grupo": "b",
@@ -40274,8 +40524,8 @@
     "Juneca"
    ],
    "data": "2026-11-11",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 657/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34303",
@@ -40301,8 +40551,8 @@
     "Diego Paixão"
    ],
    "data": "2026-11-11",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 656/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34298",
@@ -40625,8 +40875,8 @@
     "Betinho Souza"
    ],
    "data": "2026-11-05",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 644/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34220",
@@ -40934,8 +41184,8 @@
     "Rochinha"
    ],
    "data": "2026-10-29",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 633/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34120",
@@ -41417,8 +41667,8 @@
     "Leo Novais"
    ],
    "data": "2026-10-22",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 615/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34077",
@@ -41467,8 +41717,8 @@
     "Leo Novais"
    ],
    "data": "2026-10-21",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 613/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34063",
@@ -41690,8 +41940,8 @@
     "Rochinha"
    ],
    "data": "2026-10-16",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 605/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34003",
@@ -41786,8 +42036,8 @@
     "Aline Santos"
    ],
    "data": "2026-10-16",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 602/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34005",
@@ -42004,8 +42254,8 @@
     "Rochinha"
    ],
    "data": "2026-10-14",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 594/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=33973",
@@ -42551,8 +42801,8 @@
     "Aline Santos"
    ],
    "data": "2026-09-29",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 574/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=33806",
@@ -42707,8 +42957,8 @@
     "Aline Santos"
    ],
    "data": "2026-09-29",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 568/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=33789",
@@ -42737,8 +42987,8 @@
     "Aline Santos"
    ],
    "data": "2026-09-29",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 567/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=33788",
@@ -42767,8 +43017,8 @@
     "Aline Santos"
    ],
    "data": "2026-09-29",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 566/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=33787",
@@ -43586,8 +43836,8 @@
     "Rochinha"
    ],
    "data": "2026-09-18",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Votação do Processo",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Indicação 537/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=33691",
@@ -58612,6 +58862,147 @@
    ]
   },
   {
+   "id": "34465",
+   "processo": "2599",
+   "tipo": "Moção",
+   "numero": "95",
+   "ano": "2026",
+   "ementa": "O Vereador MARCIO KLEISON DE SA, no uso de suas atribuições legais e regimentais, submete à apreciação do Egrégio Plenário a presente MOÇÃO DE APELO À ENEL DISTRIBUIÇÃO SÃO PAULO, solicitando a realização de vistoria técnica e a adoção de providências urgentes para a ampliação da rede de distribuição de energia elétrica, bem como para a manutenção, substituição e modernização da infraestrutura existente na Estrada dos Moraes, bairro Jardim dos Moraes, Embu das Artes – SP, CEP 06814-330, conforme as necessidades identificadas no local.",
+   "protocolo": "2763",
+   "autores": [
+    "Marcio Kleison de Sa"
+   ],
+   "data": "2026-11-25",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Moção 95/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34465",
+   "grupo": "o",
+   "tema": "",
+   "ruas": [
+    "Estrada dos Moraes"
+   ],
+   "bairros": [
+    "Jardim dos Moraes"
+   ],
+   "vereadores": [
+    "96"
+   ]
+  },
+  {
+   "id": "34466",
+   "processo": "2598",
+   "tipo": "Moção",
+   "numero": "94",
+   "ano": "2026",
+   "ementa": "O Vereador MARCIO KLEISON DE SA, no uso de suas atribuições legais e regimentais, submete à apreciação do Egrégio Plenário a presente MOÇÃO DE APELO À ENEL DISTRIBUIÇÃO SÃO PAULO E AO PODER EXECUTIVO MUNICIPAL, solicitando a realização de estudos técnicos de viabilidade, vistoria e a adoção de providências conjuntas visando à regularização e à extensão da rede de distribuição de energia elétrica na Rua São Nicolau, bairro Chácara São Marcos, Embu das Artes – SP.",
+   "protocolo": "2762",
+   "autores": [
+    "Marcio Kleison de Sa"
+   ],
+   "data": "2026-11-25",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Moção 94/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34466",
+   "grupo": "o",
+   "tema": "",
+   "ruas": [
+    "Rua São Nicolau"
+   ],
+   "bairros": [
+    "Chácara São Marcos"
+   ],
+   "vereadores": [
+    "96"
+   ]
+  },
+  {
+   "id": "34467",
+   "processo": "2597",
+   "tipo": "Moção",
+   "numero": "93",
+   "ano": "2026",
+   "ementa": "O Vereador MARCIO KLEISON DE SA, no uso de suas atribuições legais e regimentais, submete à apreciação do Egrégio Plenário a presente MOÇÃO DE APELO À ENEL DISTRIBUIÇÃO SÃO PAULO E AO PODER EXECUTIVO MUNICIPAL, solicitando a realização de levantamentos, vistoria e análises técnicas de viabilidade visando à regularização e à expansão da rede de distribuição de energia elétrica na Estrada Lavorato, bairro Parque Industrial, Embu das Artes – SP.",
+   "protocolo": "2761",
+   "autores": [
+    "Marcio Kleison de Sa"
+   ],
+   "data": "2026-11-25",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Moção 93/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34467",
+   "grupo": "o",
+   "tema": "",
+   "ruas": [
+    "Estrada Lavorato"
+   ],
+   "bairros": [
+    "Parque Industrial"
+   ],
+   "vereadores": [
+    "96"
+   ]
+  },
+  {
+   "id": "34408",
+   "processo": "2595",
+   "tipo": "Moção",
+   "numero": "92",
+   "ano": "2026",
+   "ementa": "OO Vereador MARCIO KLEISON DE SA, O Vereador MARCIO KLEISON DE SÁ, no uso de suas atribuições legais e regimentais, submete à apreciação do Egrégio Plenário a presente MOÇÃO DE APELO À ENEL DISTRIBUIÇÃO SÃO PAULO, solicitando a realização de vistoria técnica e a adoção de providências urgentes para a ampliação da rede de distribuição de energia elétrica, bem como para a manutenção, substituição e modernização da infraestrutura existente na Rua Anésia Molino Ribeiro, bairro Chácaras Maria Alice, Embu das Artes – SP, conforme as necessidades identificadas no local.",
+   "protocolo": "2759",
+   "autores": [
+    "Marcio Kleison de Sa"
+   ],
+   "data": "2026-11-25",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Moção 92/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34408",
+   "grupo": "o",
+   "tema": "",
+   "ruas": [
+    "Rua Anésia Molino Ribeiro"
+   ],
+   "bairros": [
+    "Chácaras Maria Alice"
+   ],
+   "vereadores": [
+    "96"
+   ]
+  },
+  {
+   "id": "34463",
+   "processo": "2585",
+   "tipo": "Moção",
+   "numero": "91",
+   "ano": "2026",
+   "ementa": "“O Vereador Reginaldo Rocha Santana (Rochinha), no uso das atribuições legislativas, apresenta ao egrégio Plenário a Moção de Pesar pelo falecimento do Senhor Oswaldo La Marck Junior.”",
+   "protocolo": "2749",
+   "autores": [
+    "Rochinha"
+   ],
+   "data": "2026-11-25",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Moção 91/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34463",
+   "grupo": "h",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "83"
+   ]
+  },
+  {
    "id": "34429",
    "processo": "2553",
    "tipo": "Moção",
@@ -60938,6 +61329,156 @@
    ]
   },
   {
+   "id": "34479",
+   "processo": "2590",
+   "tipo": "Projeto de Decreto Legislativo",
+   "numero": "66",
+   "ano": "2026",
+   "ementa": "“Dispõe sobre concessão de Medalhas de Honra ao Mérito Legislativo KEROL MARTINIANO PORCELLI .“",
+   "protocolo": "2754",
+   "autores": [
+    "Betinho Souza"
+   ],
+   "data": "2026-11-25",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Projeto de Decreto Legislativo 66/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34479",
+   "grupo": "h",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "75"
+   ]
+  },
+  {
+   "id": "34478",
+   "processo": "2589",
+   "tipo": "Projeto de Decreto Legislativo",
+   "numero": "65",
+   "ano": "2026",
+   "ementa": "Dispõe sobre a concessão de Título de Cidadão Embuense das Artes ao Senhor WELLINGTON BARBOSA DE ABREU SOUZA.",
+   "protocolo": "2753",
+   "autores": [
+    "Betinho Souza"
+   ],
+   "data": "2026-11-25",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Projeto de Decreto Legislativo 65/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34478",
+   "grupo": "h",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "75"
+   ]
+  },
+  {
+   "id": "34477",
+   "processo": "2588",
+   "tipo": "Projeto de Decreto Legislativo",
+   "numero": "64",
+   "ano": "2026",
+   "ementa": "“Dispõe sobre a concessão de Título de Cidadão Embuense ao Senhor Renato Cardoso Araujo\".",
+   "protocolo": "2752",
+   "autores": [
+    "Vanessa Silva"
+   ],
+   "data": "2026-11-25",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Projeto de Decreto Legislativo 64/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34477",
+   "grupo": "h",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "87"
+   ]
+  },
+  {
+   "id": "34476",
+   "processo": "2587",
+   "tipo": "Projeto de Decreto Legislativo",
+   "numero": "63",
+   "ano": "2026",
+   "ementa": "Dispõe sobre a concessão de Título de Cidadão Embuense das Artes ao Sr. Júlio César Coelho de Macedo",
+   "protocolo": "2751",
+   "autores": [
+    "Aline Santos"
+   ],
+   "data": "2026-11-25",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Projeto de Decreto Legislativo 63/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34476",
+   "grupo": "h",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "66"
+   ]
+  },
+  {
+   "id": "34475",
+   "processo": "2586",
+   "tipo": "Projeto de Decreto Legislativo",
+   "numero": "62",
+   "ano": "2026",
+   "ementa": "“Dispõe sobre a concessão de Título de Cidadão Embuense das Artes ao Senhor Fernando Cesar Xavier.”",
+   "protocolo": "2750",
+   "autores": [
+    "Rochinha"
+   ],
+   "data": "2026-11-25",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Projeto de Decreto Legislativo 62/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34475",
+   "grupo": "h",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "83"
+   ]
+  },
+  {
+   "id": "34451",
+   "processo": "2571",
+   "tipo": "Projeto de Decreto Legislativo",
+   "numero": "61",
+   "ano": "2026",
+   "ementa": "“Dispõe sobre concessão de Título de Cidadão Embuense das Artes ao Dom Valdir José de Castro”.",
+   "protocolo": "2735",
+   "autores": [
+    "Abel Arantes"
+   ],
+   "data": "2026-11-24",
+   "fase": "Verificação da Propositura",
+   "setor": "Diretoria de Serviços Legislativos",
+   "situacao": "Tramitando",
+   "codigo": "Projeto de Decreto Legislativo 61/2026",
+   "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34451",
+   "grupo": "h",
+   "tema": "",
+   "ruas": [],
+   "bairros": [],
+   "vereadores": [
+    "62"
+   ]
+  },
+  {
    "id": "34400",
    "processo": "2519",
    "tipo": "Projeto de Decreto Legislativo",
@@ -60949,8 +61490,8 @@
     "Gilson Oliveira"
    ],
    "data": "2026-11-18",
-   "fase": "Emissão de Manifestação",
-   "setor": "Procuradoria Legislativa",
+   "fase": "Reunião da Comissão",
+   "setor": "Diretoria de Serviços Legislativos",
    "situacao": "Tramitando",
    "codigo": "Projeto de Decreto Legislativo 60/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34400",
@@ -60974,8 +61515,8 @@
     "Rochinha"
    ],
    "data": "2026-11-17",
-   "fase": "Emissão de Manifestação",
-   "setor": "Procuradoria Legislativa",
+   "fase": "Discussão e Votação",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Projeto de Decreto Legislativo 59/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34392",
@@ -60999,8 +61540,8 @@
     "Rochinha"
    ],
    "data": "2026-11-17",
-   "fase": "Emissão de Manifestação",
-   "setor": "Procuradoria Legislativa",
+   "fase": "Discussão e Votação",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Projeto de Decreto Legislativo 58/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34391",
@@ -61099,8 +61640,8 @@
     "Vanessa Silva"
    ],
    "data": "2026-10-22",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Discussão e Votação",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Projeto de Decreto Legislativo 54/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34078",
@@ -61276,8 +61817,8 @@
     "Gideon Junior"
    ],
    "data": "2026-09-25",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Discussão e Votação",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Projeto de Decreto Legislativo 47/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=33771",
@@ -61301,8 +61842,8 @@
     "Gideon Junior"
    ],
    "data": "2026-09-25",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Discussão e Votação",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Projeto de Decreto Legislativo 46/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=33772",
@@ -62749,8 +63290,8 @@
     "Rochinha"
    ],
    "data": "2026-10-29",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Discussão e Votação",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Projeto de Lei 149/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34123",
@@ -62774,8 +63315,8 @@
     "Rochinha"
    ],
    "data": "2026-10-29",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Discussão e Votação",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Projeto de Lei 148/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34124",
@@ -62822,8 +63363,8 @@
     "Vanessa Silva"
    ],
    "data": "2026-10-22",
-   "fase": "Inclusão na Ordem do Dia",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Discussão e Votação",
+   "setor": "Plenário",
    "situacao": "Tramitando",
    "codigo": "Projeto de Lei 146/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34070",
@@ -66490,8 +67031,8 @@
     "Hugo Prado"
    ],
    "data": "2026-11-17",
-   "fase": "Reunião da Comissão",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Sanção ou Veto",
+   "setor": "Diretoria Geral",
    "situacao": "Tramitando",
    "codigo": "Projeto de Lei Complementar 10/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34395",
@@ -66513,8 +67054,8 @@
     "Hugo Prado"
    ],
    "data": "2026-11-17",
-   "fase": "Reunião da Comissão",
-   "setor": "Diretoria de Serviços Legislativos",
+   "fase": "Sanção ou Veto",
+   "setor": "Diretoria Geral",
    "situacao": "Tramitando",
    "codigo": "Projeto de Lei Complementar 9/2026",
    "url": "https://nopapercloud.cmembu.sp.gov.br/spl/processo.aspx?id=34394",
@@ -88151,9 +88692,341 @@
    "titulo": "Ordinária N° 11",
    "data": "2025-04-16",
    "tem_votacao": true,
-   "votacoes": [],
-   "presenca": {},
-   "url_votacao": "https://nopapercloud.cmembu.sp.gov.br/Arquivo/Documents/SES/292/sessao_292_202504221115473826.pdf?identificador=30003A005300"
+   "votacoes": [
+    {
+     "titulo": "ATA 10ª SESSÃO ORDINÁRIA - 07/04/2025",
+     "materia": "",
+     "quorum": "Maioria Simples",
+     "placar": "S:15 | N:0 | A:0",
+     "resultado": "APROVADO",
+     "votos": {
+      "91": "Sim",
+      "65": "Sim",
+      "92": "Sim",
+      "87": "Sim",
+      "84": "Sim",
+      "63": "Sim",
+      "88": "Sim",
+      "67": "Sim",
+      "85": "Sim",
+      "77": "Sim",
+      "83": "Sim",
+      "90": "Sim",
+      "89": "Sim",
+      "86": "Sim",
+      "93": "Sim"
+     }
+    },
+    {
+     "titulo": "REQUERIMENTO DE URGÊNCIA ESPECIAL AO PROJETO DE EMENDA À LEI ORGÂNICA Nº. 01/2025",
+     "materia": "EMENDA 01/2025",
+     "quorum": "Maioria Absoluta",
+     "placar": "S:18 | N:0 | A:0",
+     "resultado": "APROVADO",
+     "votos": {
+      "63": "Sim",
+      "90": "Sim",
+      "89": "Sim",
+      "65": "Sim",
+      "93": "Sim",
+      "84": "Sim",
+      "91": "Sim",
+      "77": "Sim",
+      "72": "Sim",
+      "88": "Sim",
+      "85": "Sim",
+      "87": "Sim",
+      "92": "Sim",
+      "83": "Sim",
+      "86": "Sim",
+      "74": "Sim",
+      "71": "Sim",
+      "67": "Sim"
+     }
+    },
+    {
+     "titulo": "REQUERIMENTO DE URGÊNCIA ESPECIAL AO PROJETO DE LEI COMPLEMENTAR Nº. 04/2025",
+     "materia": "PROJETO DE LEI COMPLEMENTAR 04/2025",
+     "quorum": "Maioria Absoluta",
+     "placar": "S:18 | N:0 | A:0",
+     "resultado": "APROVADO",
+     "votos": {
+      "65": "Sim",
+      "71": "Sim",
+      "89": "Sim",
+      "77": "Sim",
+      "86": "Sim",
+      "84": "Sim",
+      "67": "Sim",
+      "83": "Sim",
+      "93": "Sim",
+      "88": "Sim",
+      "63": "Sim",
+      "91": "Sim",
+      "72": "Sim",
+      "87": "Sim",
+      "90": "Sim",
+      "92": "Sim",
+      "85": "Sim",
+      "74": "Sim"
+     }
+    },
+    {
+     "titulo": "REQUERIMENTO DE URGÊNCIA ESPECIAL AO PROJETO DE LEI COMPLEMENTAR Nº. 05/2025",
+     "materia": "PROJETO DE LEI COMPLEMENTAR 05/2025",
+     "quorum": "Maioria Absoluta",
+     "placar": "S:16 | N:2 | A:0",
+     "resultado": "APROVADO",
+     "votos": {
+      "71": "Sim",
+      "63": "Não",
+      "88": "Sim",
+      "89": "Sim",
+      "67": "Sim",
+      "86": "Sim",
+      "90": "Sim",
+      "72": "Sim",
+      "93": "Não",
+      "84": "Sim",
+      "91": "Sim",
+      "65": "Sim",
+      "83": "Sim",
+      "87": "Sim",
+      "77": "Sim",
+      "92": "Sim",
+      "74": "Sim",
+      "85": "Sim"
+     }
+    },
+    {
+     "titulo": "REQUERIMENTO DE URGÊNCIA ESPECIAL AO PROJETO DE LEI COMPLEMENTAR Nº. 06/2025",
+     "materia": "PROJETO DE LEI COMPLEMENTAR 06/2025",
+     "quorum": "Maioria Absoluta",
+     "placar": "S:15 | N:2 | A:0",
+     "resultado": "APROVADO",
+     "votos": {
+      "71": "Sim",
+      "89": "Sim",
+      "67": "Sim",
+      "65": "Sim",
+      "83": "Sim",
+      "63": "Não",
+      "72": "Sim",
+      "93": "Não",
+      "92": "Sim",
+      "91": "Sim",
+      "87": "Sim",
+      "77": "Sim",
+      "85": "Sim",
+      "90": "Sim",
+      "74": "Sim",
+      "86": "Sim",
+      "84": "Sim"
+     }
+    },
+    {
+     "titulo": "REQUERIMENTO DE URGÊNCIA ESPECIAL AO PROJETO DE LEI 51/2025",
+     "materia": "",
+     "quorum": "Maioria Absoluta",
+     "placar": "S:16 | N:2 | A:0",
+     "resultado": "APROVADO",
+     "votos": {
+      "89": "Sim",
+      "83": "Sim",
+      "90": "Sim",
+      "63": "Não",
+      "93": "Não",
+      "65": "Sim",
+      "77": "Sim",
+      "91": "Sim",
+      "71": "Sim",
+      "87": "Sim",
+      "84": "Sim",
+      "72": "Sim",
+      "88": "Sim",
+      "86": "Sim",
+      "67": "Sim",
+      "92": "Sim",
+      "74": "Sim",
+      "85": "Sim"
+     }
+    },
+    {
+     "titulo": "PROJETO DE EMENDA À LEI ORGÂNICA Nº. 01/2025 DE AUTORIA DA MESA DA CÂMARA – 1ª DISCUSSÃO E VOTAÇÃO. Acrescenta o Art. 142-A a Lei Orgânica, que disciplina as emendas parlamentares individuais impositivas ao Projeto de Lei Orçamentária Anual – LOA",
+     "materia": "EMENDA 01/2025",
+     "quorum": "Maioria Absoluta",
+     "placar": "S:12 | N:0 | A:0",
+     "resultado": "APROVADO",
+     "votos": {
+      "65": "Sim",
+      "86": "Sim",
+      "77": "Sim",
+      "71": "Sim",
+      "89": "Sim",
+      "90": "Sim",
+      "93": "Sim",
+      "91": "Sim",
+      "72": "Sim",
+      "85": "Sim",
+      "83": "Sim",
+      "87": "Sim"
+     }
+    },
+    {
+     "titulo": "PROJETO DE LEI COMPLEMENTAR Nº 04/2025 DE AUTORIA DO PREFEITO HUGO PRADO \"Regulamenta a concessão de subvenções sociais, auxílio e contribuições destinados a entidades sem ﬁns lucrativos decorrentes das emendas individuais impositivas à Lei Orçamentária Anual, e dá outras providências.\"",
+     "materia": "PROJETO DE LEI COMPLEMENTAR 04/2025",
+     "quorum": "Maioria Absoluta",
+     "placar": "S:16 | N:0 | A:0",
+     "resultado": "APROVADO",
+     "votos": {
+      "63": "Sim",
+      "65": "Sim",
+      "93": "Sim",
+      "88": "Sim",
+      "71": "Sim",
+      "74": "Sim",
+      "85": "Sim",
+      "83": "Sim",
+      "87": "Sim",
+      "89": "Sim",
+      "77": "Sim",
+      "91": "Sim",
+      "86": "Sim",
+      "90": "Sim",
+      "84": "Sim",
+      "72": "Sim"
+     }
+    },
+    {
+     "titulo": "PROJETO DE LEI COMPLEMENTAR Nº 05/2025 DE AUTORIA DO PREFEITO HUGO PRADO \"Cria o Programa de Regularização de Ediﬁcações e dá outras providências.\"",
+     "materia": "PROJETO DE LEI COMPLEMENTAR 05/2025",
+     "quorum": "Maioria Absoluta",
+     "placar": "S:18 | N:0 | A:0",
+     "resultado": "APROVADO",
+     "votos": {
+      "71": "Sim",
+      "89": "Sim",
+      "65": "Sim",
+      "72": "Sim",
+      "84": "Sim",
+      "90": "Sim",
+      "63": "Sim",
+      "86": "Sim",
+      "67": "Sim",
+      "77": "Sim",
+      "88": "Sim",
+      "93": "Sim",
+      "83": "Sim",
+      "91": "Sim",
+      "74": "Sim",
+      "87": "Sim",
+      "85": "Sim",
+      "92": "Sim"
+     }
+    },
+    {
+     "titulo": "PROJETO DE LEI COMPLEMENTAR Nº 06/2025 DE AUTORIA DO PREFEITO HUGO PRADO \"Altera a estrutura organizacional e administrativa da Prefeitura Municipal da Estância Turística de Embu das Artes e dá outras providências.\"",
+     "materia": "PROJETO DE LEI COMPLEMENTAR 06/2025",
+     "quorum": "Maioria Absoluta",
+     "placar": "S:15 | N:3 | A:0",
+     "resultado": "APROVADO",
+     "votos": {
+      "89": "Sim",
+      "63": "Não",
+      "71": "Sim",
+      "77": "Sim",
+      "86": "Sim",
+      "72": "Sim",
+      "65": "Sim",
+      "67": "Sim",
+      "74": "Sim",
+      "83": "Sim",
+      "90": "Sim",
+      "93": "Não",
+      "92": "Sim",
+      "91": "Sim",
+      "85": "Sim",
+      "87": "Sim",
+      "84": "Sim",
+      "88": "Não"
+     }
+    },
+    {
+     "titulo": "PROJETO DE LEI Nº 51/2025 DE AUTORIA DO PREFEITO HUGO PRADO \"Dispõe sobre alteração da Lei nº 2365 de 17 de dezembro de 2008 e dá outras providências.\"",
+     "materia": "PROJETO DE LEI 51/2025",
+     "quorum": "Maioria Absoluta",
+     "placar": "S:15 | N:2 | A:0",
+     "resultado": "APROVADO",
+     "votos": {
+      "65": "Sim",
+      "83": "Sim",
+      "74": "Sim",
+      "92": "Sim",
+      "89": "Sim",
+      "71": "Sim",
+      "77": "Sim",
+      "85": "Sim",
+      "72": "Sim",
+      "91": "Sim",
+      "63": "Não",
+      "87": "Sim",
+      "86": "Sim",
+      "93": "Não",
+      "90": "Sim",
+      "88": "Sim",
+      "67": "Sim"
+     }
+    },
+    {
+     "titulo": "MOÇÃO DE PESAR N.º 25/2025 DE AUTORIA DA VEREADORA SANDRA MANENTE Moção de Pesar pelo falecimento da Lucília de Rezende, professora da Rede Municipal de Ensino da Cidade de Embu das Artes-SP",
+     "materia": "",
+     "quorum": "Maioria Simples",
+     "placar": "S:18 | N:0 | A:0",
+     "resultado": "APROVADO",
+     "votos": {
+      "89": "Sim",
+      "71": "Sim",
+      "65": "Sim",
+      "63": "Sim",
+      "77": "Sim",
+      "83": "Sim",
+      "86": "Sim",
+      "74": "Sim",
+      "85": "Sim",
+      "72": "Sim",
+      "90": "Sim",
+      "93": "Sim",
+      "87": "Sim",
+      "92": "Sim",
+      "84": "Sim",
+      "91": "Sim",
+      "67": "Sim",
+      "88": "Sim"
+     }
+    }
+   ],
+   "presenca": {
+    "62": "Presente",
+    "63": "Presente",
+    "65": "Presente",
+    "67": "Presente",
+    "74": "---",
+    "88": "Presente",
+    "91": "---",
+    "72": "Presente",
+    "89": "Presente",
+    "71": "Presente",
+    "92": "Presente",
+    "84": "---",
+    "90": "Presente",
+    "85": "Presente",
+    "77": "Presente",
+    "83": "---",
+    "93": "Presente",
+    "87": "Presente",
+    "86": "Presente"
+   },
+   "url_votacao": "https://nopapercloud.cmembu.sp.gov.br/Arquivo/Documents/SES/292/sessao_292_202504221103313096.pdf?identificador=30003A005300"
   },
   {
    "id": "291",
@@ -91988,19 +92861,19 @@
   }
  ],
  "catot": {
-  "b": 1505,
-  "o": 152,
-  "h": 322,
+  "b": 1512,
+  "o": 156,
+  "h": 329,
   "c": 36,
   "l": 268
  },
  "tipos": {
-  "Indicação": 1505,
-  "Moção": 189,
+  "Indicação": 1512,
+  "Moção": 194,
   "Requerimento": 36,
   "Projeto de Lei": 299,
   "Projeto de Lei Complementar": 37,
-  "Projeto de Decreto Legislativo": 117,
+  "Projeto de Decreto Legislativo": 123,
   "Projeto de Resolução": 21,
   "Proposta de Emenda à Lei Orgânica": 2,
   "Emenda": 15,
@@ -92113,7 +92986,15 @@
    12
   ],
   [
+   "Jardim Santa Emília",
+   12
+  ],
+  [
    "Jardim São Marcos",
+   11
+  ],
+  [
+   "Jardim de Lourdes",
    11
   ],
   [
@@ -92122,10 +93003,6 @@
   ],
   [
    "Jardim Dom José",
-   10
-  ],
-  [
-   "Jardim Santa Emília",
    10
   ],
   [
@@ -92141,7 +93018,7 @@
    10
   ],
   [
-   "Jardim de Lourdes",
+   "Jardim dos Moraes",
    10
   ],
   [
@@ -92154,10 +93031,6 @@
   ],
   [
    "Jardim Novo Campo Limpo",
-   9
-  ],
-  [
-   "Jardim dos Moraes",
    9
   ],
   [
@@ -92201,6 +93074,14 @@
    6
   ],
   [
+   "Parque Industrial",
+   6
+  ],
+  [
+   "Chácara São Marcos",
+   6
+  ],
+  [
    "Chácaras Ana Lúcia",
    6
   ],
@@ -92233,15 +93114,7 @@
    5
   ],
   [
-   "Parque Industrial",
-   5
-  ],
-  [
    "Cercado Grande",
-   5
-  ],
-  [
-   "Chácara São Marcos",
    5
   ],
   [
@@ -92254,6 +93127,10 @@
   ],
   [
    "Santo Eduardo",
+   5
+  ],
+  [
+   "Chácaras Maria Alice",
    5
   ],
   [
@@ -92289,7 +93166,7 @@
    4
   ],
   [
-   "Chácaras Maria Alice",
+   "Jardim Jurema",
    4
   ],
   [
@@ -92323,10 +93200,6 @@
   [
    "Jardim Batista-embu das Artes",
    4
-  ],
-  [
-   "Jardim Santa Bárbara",
-   3
   ]
  ],
  "repetidos": [
@@ -92797,11 +93670,11 @@
    ]
   }
  ],
- "n_votacoes": 957,
- "unanimes": 834,
+ "n_votacoes": 969,
+ "unanimes": 841,
  "valores_voto": {
-  "Sim": 13612,
-  "Não": 439,
+  "Sim": 13804,
+  "Não": 450,
   "Absteve": 34
  },
  "sessoes_sem_registro": [
@@ -92828,10 +93701,6 @@
   {
    "data": "2025-04-30",
    "titulo": "Ordinária N° 13"
-  },
-  {
-   "data": "2025-04-16",
-   "titulo": "Ordinária N° 11"
   },
   {
    "data": "2025-02-05",
